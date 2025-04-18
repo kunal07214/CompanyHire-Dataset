@@ -1,0 +1,2562 @@
+S.No,Field of Interest,Company Hired,Top Skill,Experience Level
+1,Data Analytics,GitHub,Unreal Engine,Not Fresher
+2,Web Development,Statcon Electronics,C,Not Fresher
+3,AI/ML,Batt:RE,Angular,Not Fresher
+4,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+5,Data Analytics,OnePlus,C#,Not Fresher
+6,Embedded Systems,Texas Instruments,C,Fresher
+7,DevOps,DeepMind,HTML/CSS,Not Fresher
+8,Data Analytics,EY,Power BI,Not Fresher
+9,AI/ML,Infosys,Ethical Hacking,Not Fresher
+10,Mobile Development,SunLife,Azure,Not Fresher
+11,Game Development,TCS,C#,Fresher
+12,Mobile Development,Apple,React Native,Not Fresher
+13,Cybersecurity,Celebal Technologies,Flutter,Fresher
+14,DevOps,Navikenz Inc,Unreal Engine,Not Fresher
+15,Cloud Computing,Statcon Electronics,SQL,Not Fresher
+16,AI/ML,DeepMind,PyTorch,Not Fresher
+17,AI/ML,Accolite,Docker,Not Fresher
+18,Embedded Systems,Texas Instruments,C,Not Fresher
+19,DevOps,Atlassian,Kubernetes,Not Fresher
+20,Embedded Systems,Cisco,RTOS,Not Fresher
+21,Mobile Development,Samsung,Flutter,Not Fresher
+22,DevOps,Atlassian,CI/CD,Fresher
+23,Data Analytics,Hyundai,Scikit-learn,Not Fresher
+24,Web Development,Microsoft,HTML/CSS,Not Fresher
+25,Cloud Computing,AWS,Azure,Fresher
+26,Cybersecurity,Zscaler,Ethical Hacking,Not Fresher
+27,Embedded Systems,Yamaha,Docker,Not Fresher
+28,Mobile Development,British Telecom,Docker,Not Fresher
+29,Embedded Systems,Intel,Microcontrollers,Fresher
+30,DevOps,Red Hat,Kubernetes,Not Fresher
+31,AI/ML,NVIDIA,TensorFlow,Not Fresher
+32,DevOps,Red Hat,CI/CD,Not Fresher
+33,Embedded Systems,Qualcomm,Microcontrollers,Fresher
+34,Embedded Systems,Nokia,Power BI,Not Fresher
+35,Cloud Computing,Rockstar Games,Microcontrollers,Not Fresher
+36,Game Development,Navikenz Inc,C#,Fresher
+37,AI/ML,NVIDIA,Scikit-learn,Not Fresher
+38,Web Development,Google,React,Fresher
+39,Data Analytics,TCS,GCP,Not Fresher
+40,Game Development,Rockstar Games,Unreal Engine,Not Fresher
+41,Game Development,TVS Motors,Microcontrollers,Not Fresher
+42,Game Development,GitHub,RTOS,Not Fresher
+43,Cybersecurity,HSC,Tableau,Fresher
+44,Cybersecurity,Palo Alto Networks,Firewalls,Fresher
+45,Data Analytics,Red Hat,C,Not Fresher
+46,Web Development,Juniper Networks,HTML/CSS,Not Fresher
+47,Game Development,Synopsys,Power BI,Not Fresher
+48,Web Development,OnePlus,Network Security,Not Fresher
+49,DevOps,Principal Global,Tableau,Fresher
+50,Embedded Systems,Intel,C,Not Fresher
+51,Game Development,SunLife,Unreal Engine,Not Fresher
+52,AI/ML,ICICI Prudential,React Native,Fresher
+53,Game Development,SAP Lab,Angular,Not Fresher
+54,Data Analytics,JP Morgan,Angular,Not Fresher
+55,Cybersecurity,Statcon Electronics,CI/CD,Not Fresher
+56,Cloud Computing,Celebal Technologies,CI/CD,Not Fresher
+57,Game Development,Qualcomm,CI/CD,Not Fresher
+58,Data Analytics,Secure Meters,RTOS,Not Fresher
+59,Data Analytics,Mercer Mettl,React,Not Fresher
+60,Mobile Development,Qualcomm,Unreal Engine,Not Fresher
+61,Cybersecurity,rtCamp,Unreal Engine,Fresher
+62,Cloud Computing,NVIDIA,Power BI,Not Fresher
+63,Data Analytics,NI Systems,Kubernetes,Not Fresher
+64,AI/ML,DeepMind,TensorFlow,Not Fresher
+65,Data Analytics,EY,Power BI,Not Fresher
+66,Game Development,Electronic Arts,Unreal Engine,Fresher
+67,AI/ML,DeepMind,PyTorch,Not Fresher
+68,Data Analytics,HSC,Power BI,Not Fresher
+69,Cybersecurity,HashedIn,TensorFlow,Fresher
+70,Cloud Computing,Tata Consulting Engineers,Kubernetes,Not Fresher
+71,Cloud Computing,Google Cloud,Azure,Fresher
+72,Mobile Development,Samsung,React Native,Not Fresher
+73,AI/ML,OpenAI,Scikit-learn,Not Fresher
+74,Cloud Computing,AWS,GCP,Not Fresher
+75,Cloud Computing,AWS,AWS,Fresher
+76,Game Development,Silicon Labs,Network Security,Not Fresher
+77,DevOps,Statcon Electronics,CI/CD,Fresher
+78,Game Development,Electronic Arts,C#,Fresher
+79,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+80,DevOps,Bosch Ltd.,Microcontrollers,Not Fresher
+81,Cybersecurity,Palo Alto Networks,Network Security,Fresher
+82,Game Development,EY,Microcontrollers,Not Fresher
+83,Embedded Systems,Yamaha,SQL,Not Fresher
+84,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+85,AI/ML,DeepMind,PyTorch,Not Fresher
+86,Embedded Systems,Intel,RTOS,Not Fresher
+87,Embedded Systems,Hexaware,PyTorch,Not Fresher
+88,Web Development,Google,HTML/CSS,Not Fresher
+89,Mobile Development,Hexaware,Tableau,Fresher
+90,AI/ML,NVIDIA,PyTorch,Not Fresher
+91,Web Development,TCS,React,Fresher
+92,Cybersecurity,Schneider,GCP,Fresher
+93,Game Development,ICICI Prudential,SQL,Fresher
+94,Mobile Development,Microsoft,TensorFlow,Not Fresher
+95,DevOps,Red Hat,Kubernetes,Fresher
+96,Embedded Systems,Sabre,React Native,Not Fresher
+97,AI/ML,OpenAI,PyTorch,Not Fresher
+98,Embedded Systems,Microsoft,Kubernetes,Not Fresher
+99,Embedded Systems,Micron Semiconductor,Docker,Not Fresher
+100,Cybersecurity,Mahindra & Mahindra,AWS,Fresher
+101,Embedded Systems,JSW,Azure,Not Fresher
+102,AI/ML,NVIDIA,Scikit-learn,Not Fresher
+103,Mobile Development,Samsung,React Native,Not Fresher
+104,Embedded Systems,Intel,C,Not Fresher
+105,Data Analytics,PwC,SQL,Fresher
+106,Game Development,Electronic Arts,Unity,Not Fresher
+107,Embedded Systems,Dell Technologies,Ethical Hacking,Fresher
+108,Cybersecurity,Navikenz Inc,Flutter,Fresher
+109,Cybersecurity,Micron Semiconductor,Azure,Not Fresher
+110,DevOps,Red Hat,Azure,Not Fresher
+111,Cloud Computing,AWS,GCP,Not Fresher
+112,Mobile Development,Google Cloud,Network Security,Not Fresher
+113,Cloud Computing,Azure,Azure,Not Fresher
+114,DevOps,Red Hat,CI/CD,Not Fresher
+115,Web Development,Google,React,Not Fresher
+116,Cybersecurity,Dell Technologies,React Native,Not Fresher
+117,DevOps,Silicon Labs,RTOS,Not Fresher
+118,Data Analytics,Accolite,PyTorch,Not Fresher
+119,Mobile Development,Apple,React Native,Not Fresher
+120,Mobile Development,Palo Alto Networks,Tableau,Not Fresher
+121,Game Development,Apple,CI/CD,Fresher
+122,Embedded Systems,Intel,Microcontrollers,Not Fresher
+123,AI/ML,NVIDIA,PyTorch,Not Fresher
+124,AI/ML,Marsh McLennan,Network Security,Not Fresher
+125,Web Development,rtCamp,Angular,Fresher
+126,DevOps,Atlassian,Kubernetes,Fresher
+127,AI/ML,DeepMind,Scikit-learn,Not Fresher
+128,DevOps,Schneider,Ethical Hacking,Not Fresher
+129,Embedded Systems,SunLife,Flutter,Fresher
+130,Mobile Development,Hexaware,RTOS,Not Fresher
+131,Cloud Computing,SunLife,Firewalls,Fresher
+132,AI/ML,DeepMind,GCP,Not Fresher
+133,Cloud Computing,HashedIn,Scikit-learn,Not Fresher
+134,Cybersecurity,Hyundai,SQL,Fresher
+135,Cloud Computing,Azure,GCP,Not Fresher
+136,Game Development,Cipla,Angular,Not Fresher
+137,Embedded Systems,Qualcomm,C,Fresher
+138,Mobile Development,DeepMind,Kubernetes,Fresher
+139,Mobile Development,Samsung,Azure,Not Fresher
+140,Cybersecurity,Zscaler,Firewalls,Not Fresher
+141,Data Analytics,Scaler,Microcontrollers,Not Fresher
+142,Mobile Development,Apple,Kotlin,Fresher
+143,Data Analytics,Persistent,C,Not Fresher
+144,Cybersecurity,Palo Alto Networks,Network Security,Not Fresher
+145,Cybersecurity,Maverick Quantum,Firewalls,Not Fresher
+146,Embedded Systems,Sanguine Global,React,Fresher
+147,Mobile Development,OnePlus,Flutter,Not Fresher
+148,Cloud Computing,Schneider,Network Security,Not Fresher
+149,Embedded Systems,Seagate,Unity,Not Fresher
+150,AI/ML,NVIDIA,TensorFlow,Not Fresher
+151,DevOps,Atlassian,CI/CD,Not Fresher
+152,DevOps,Red Hat,CI/CD,Not Fresher
+153,Game Development,Synopsys,Angular,Not Fresher
+154,Data Analytics,Celebal Technologies,Docker,Fresher
+155,DevOps,OpenAI,React,Not Fresher
+156,Web Development,Qualcomm,Unreal Engine,Not Fresher
+157,DevOps,JSW,Ethical Hacking,Not Fresher
+158,Game Development,Electronic Arts,C#,Not Fresher
+159,AI/ML,HSC,Kotlin,Not Fresher
+160,Web Development,Google,Angular,Not Fresher
+161,Embedded Systems,AWS,Tableau,Not Fresher
+162,Cloud Computing,Ubisoft,C,Not Fresher
+163,Data Analytics,Mahindra & Mahindra,Azure,Not Fresher
+164,Data Analytics,Palo Alto Networks,React,Fresher
+165,Cloud Computing,Atlassian,Kotlin,Not Fresher
+166,Data Analytics,PwC,SQL,Not Fresher
+167,Game Development,JSW,Azure,Not Fresher
+168,Mobile Development,OnePlus,React Native,Not Fresher
+169,Cloud Computing,Azure,Azure,Not Fresher
+170,Web Development,Microsoft,React,Not Fresher
+171,Embedded Systems,Micron Semiconductor,TensorFlow,Not Fresher
+172,Embedded Systems,Qualcomm,Microcontrollers,Not Fresher
+173,Cloud Computing,Google Cloud,AWS,Not Fresher
+174,Data Analytics,EY,Tableau,Not Fresher
+175,Embedded Systems,Intel,RTOS,Fresher
+176,Game Development,Persistent,Docker,Fresher
+177,Data Analytics,Apple,GCP,Fresher
+178,DevOps,GitHub,Kubernetes,Not Fresher
+179,DevOps,Tata Consulting Engineers,GCP,Not Fresher
+180,Data Analytics,Zscaler,PyTorch,Fresher
+181,Web Development,Google,HTML/CSS,Not Fresher
+182,Mobile Development,AWS,C,Not Fresher
+183,Cloud Computing,Azure,Azure,Not Fresher
+184,Embedded Systems,KPMG,Docker,Not Fresher
+185,Game Development,OnePlus,Unity,Not Fresher
+186,DevOps,GitHub,Docker,Fresher
+187,Data Analytics,PwC,Tableau,Not Fresher
+188,AI/ML,Accolite,Docker,Not Fresher
+189,Web Development,Amazon,React,Not Fresher
+190,DevOps,Talsmart,Kotlin,Fresher
+191,Game Development,HSC,Power BI,Not Fresher
+192,AI/ML,Yamaha,Docker,Not Fresher
+193,Embedded Systems,Intel,Microcontrollers,Not Fresher
+194,Data Analytics,Ubisoft,Unity,Not Fresher
+195,Mobile Development,Mercer Mettl,RTOS,Not Fresher
+196,Cybersecurity,Persistent,C,Not Fresher
+197,Game Development,Ubisoft,Unity,Not Fresher
+198,AI/ML,DeepMind,PyTorch,Fresher
+199,AI/ML,Hyundai,Microcontrollers,Not Fresher
+200,Web Development,Red Hat,React Native,Not Fresher
+201,Web Development,Yamaha,Tableau,Not Fresher
+202,Web Development,Microsoft,Flutter,Not Fresher
+203,AI/ML,JSW,RTOS,Not Fresher
+204,AI/ML,OpenAI,TensorFlow,Fresher
+205,Data Analytics,GitHub,React,Not Fresher
+206,Data Analytics,PwC,Power BI,Not Fresher
+207,Game Development,Talsmart,Docker,Not Fresher
+208,AI/ML,DeepMind,TensorFlow,Not Fresher
+209,Web Development,Google,Angular,Fresher
+210,DevOps,Yamaha,Ethical Hacking,Fresher
+211,Mobile Development,Talsmart,Microcontrollers,Not Fresher
+212,Data Analytics,PwC,Power BI,Fresher
+213,Embedded Systems,Harness,React,Not Fresher
+214,Web Development,Amazon,Angular,Not Fresher
+215,Mobile Development,Apple,Flutter,Not Fresher
+216,Data Analytics,EY,Power BI,Not Fresher
+217,Data Analytics,Deloitte,SQL,Not Fresher
+218,Web Development,NVIDIA,Scikit-learn,Not Fresher
+219,Cloud Computing,SunLife,React,Not Fresher
+220,Web Development,Maverick Quantum,RTOS,Fresher
+221,Data Analytics,Deloitte,SQL,Fresher
+222,Data Analytics,Deloitte,SQL,Not Fresher
+223,AI/ML,Zscaler,CI/CD,Not Fresher
+224,Cybersecurity,Marsh McLennan,Unity,Not Fresher
+225,Data Analytics,EY,Power BI,Not Fresher
+226,Cybersecurity,Electronic Arts,TensorFlow,Not Fresher
+227,Cloud Computing,Google Cloud,AWS,Fresher
+228,Cybersecurity,Hexaware,Network Security,Not Fresher
+229,Mobile Development,Samsung,Kotlin,Not Fresher
+230,Web Development,NI Systems,Azure,Fresher
+231,AI/ML,DeepMind,TensorFlow,Not Fresher
+232,Cloud Computing,Azure,GCP,Not Fresher
+233,Mobile Development,Qualcomm,GCP,Fresher
+234,DevOps,Atlassian,Docker,Not Fresher
+235,Cloud Computing,KPMG,C,Fresher
+236,DevOps,Mahindra Comviva,Microcontrollers,Fresher
+237,Cybersecurity,Red Hat,Firewalls,Not Fresher
+238,Embedded Systems,HSC,AWS,Not Fresher
+239,Embedded Systems,Sabre,Flutter,Fresher
+240,Game Development,Rockstar Games,Unity,Fresher
+241,DevOps,Red Hat,Docker,Fresher
+242,Cloud Computing,Batt:RE,Angular,Not Fresher
+243,AI/ML,Sabre,C#,Not Fresher
+244,Mobile Development,Celebal Technologies,CI/CD,Not Fresher
+245,Mobile Development,Apple,Flutter,Not Fresher
+246,Web Development,British Telecom,Angular,Not Fresher
+247,Web Development,Amazon,Angular,Not Fresher
+248,Game Development,Electronic Arts,C#,Not Fresher
+249,Cloud Computing,AWS,Azure,Not Fresher
+250,Embedded Systems,rtCamp,React Native,Not Fresher
+251,AI/ML,ICICI Prudential,PyTorch,Not Fresher
+252,Web Development,Google,Angular,Not Fresher
+253,Web Development,Mahindra Comviva,Scikit-learn,Not Fresher
+254,DevOps,Yamaha,Unreal Engine,Not Fresher
+255,Web Development,Google,HTML/CSS,Not Fresher
+256,Embedded Systems,Qualcomm,RTOS,Not Fresher
+257,Cloud Computing,Azure,AWS,Not Fresher
+258,Game Development,Seagate,Kubernetes,Fresher
+259,Cloud Computing,Google Cloud,GCP,Not Fresher
+260,Game Development,Rockstar Games,C#,Not Fresher
+261,Cybersecurity,Samsung,PyTorch,Not Fresher
+262,Web Development,Navikenz Inc,Ethical Hacking,Not Fresher
+263,AI/ML,Harness,Tableau,Fresher
+264,Mobile Development,OnePlus,React Native,Not Fresher
+265,DevOps,Philips,AWS,Not Fresher
+266,Data Analytics,EY,SQL,Not Fresher
+267,Web Development,Microsoft,React,Fresher
+268,AI/ML,TVS Motors,TensorFlow,Not Fresher
+269,Mobile Development,Seagate,Power BI,Not Fresher
+270,Mobile Development,Synopsys,Power BI,Not Fresher
+271,AI/ML,NVIDIA,PyTorch,Not Fresher
+272,Web Development,Cipla,Kubernetes,Not Fresher
+273,Embedded Systems,Apple,TensorFlow,Not Fresher
+274,Embedded Systems,GitHub,React,Not Fresher
+275,Embedded Systems,Secure Meters,Kubernetes,Not Fresher
+276,Cybersecurity,Palo Alto Networks,Ethical Hacking,Not Fresher
+277,Cloud Computing,Watchguard,RTOS,Not Fresher
+278,AI/ML,NVIDIA,PyTorch,Not Fresher
+279,AI/ML,DeepMind,PyTorch,Not Fresher
+280,AI/ML,Genpact,PyTorch,Fresher
+281,DevOps,Red Hat,Docker,Not Fresher
+282,Web Development,Google,React,Fresher
+283,Web Development,Amazon,Angular,Not Fresher
+284,Embedded Systems,Qualcomm,RTOS,Not Fresher
+285,Cloud Computing,Deloitte,Angular,Not Fresher
+286,Web Development,Nokia,Tableau,Not Fresher
+287,Game Development,SAP Scholar,Docker,Not Fresher
+288,Game Development,Ubisoft,Unreal Engine,Not Fresher
+289,Cloud Computing,Micron Semiconductor,GCP,Not Fresher
+290,Embedded Systems,Yamaha,TensorFlow,Not Fresher
+291,AI/ML,NVIDIA,PyTorch,Not Fresher
+292,Web Development,Philips,C,Not Fresher
+293,Cloud Computing,Nokia,Tableau,Not Fresher
+294,DevOps,Hyundai,Docker,Fresher
+295,Web Development,Amazon,Angular,Not Fresher
+296,DevOps,GitHub,Docker,Fresher
+297,Cloud Computing,Hexaware,RTOS,Fresher
+298,DevOps,Red Hat,Docker,Not Fresher
+299,Mobile Development,Principal Global,Tableau,Fresher
+300,Cybersecurity,Cisco,Ethical Hacking,Not Fresher
+301,Embedded Systems,SunLife,SQL,Not Fresher
+302,Data Analytics,Microsoft,TensorFlow,Not Fresher
+303,DevOps,Samsung,React,Fresher
+304,Embedded Systems,Intel,C,Not Fresher
+305,AI/ML,Cisco,Power BI,Not Fresher
+306,Data Analytics,Deloitte,SQL,Not Fresher
+307,DevOps,Silicon Labs,RTOS,Not Fresher
+308,Data Analytics,PwC,SQL,Fresher
+309,Mobile Development,Apple,React Native,Not Fresher
+310,Web Development,Amazon,React,Not Fresher
+311,DevOps,rtCamp,Ethical Hacking,Not Fresher
+312,Data Analytics,EY,SQL,Fresher
+313,DevOps,Atlassian,CI/CD,Not Fresher
+314,Cybersecurity,Palo Alto Networks,Ethical Hacking,Fresher
+315,Cybersecurity,JSW,RTOS,Fresher
+316,Data Analytics,PwC,Power BI,Fresher
+317,AI/ML,OpenAI,TensorFlow,Not Fresher
+318,Embedded Systems,British Telecom,RTOS,Not Fresher
+319,DevOps,Red Hat,CI/CD,Fresher
+320,Cloud Computing,Zscaler,CI/CD,Not Fresher
+321,Embedded Systems,Accolite,React,Not Fresher
+322,Game Development,Electronic Arts,Unreal Engine,Fresher
+323,Embedded Systems,Intel,RTOS,Not Fresher
+324,Game Development,Navikenz Inc,Unreal Engine,Not Fresher
+325,AI/ML,OpenAI,TensorFlow,Fresher
+326,Cloud Computing,Google Cloud,GCP,Not Fresher
+327,Data Analytics,Deloitte,SQL,Not Fresher
+328,Cloud Computing,Azure,GCP,Not Fresher
+329,Embedded Systems,Accenture,C#,Not Fresher
+330,DevOps,Red Hat,Docker,Not Fresher
+331,Game Development,Palo Alto Networks,Tableau,Not Fresher
+332,Cybersecurity,Scaler,Unity,Fresher
+333,AI/ML,AWS,GCP,Not Fresher
+334,Cloud Computing,Google Cloud,Azure,Not Fresher
+335,Web Development,Domato Book Co.,C#,Not Fresher
+336,Data Analytics,Atlassian,Ethical Hacking,Not Fresher
+337,DevOps,Infosys,Flutter,Fresher
+338,DevOps,Mahindra Comviva,SQL,Not Fresher
+339,Embedded Systems,Cisco,Flutter,Not Fresher
+340,Cybersecurity,Palo Alto Networks,Network Security,Not Fresher
+341,Game Development,Tech Mahindra,Unity,Not Fresher
+342,Game Development,Amazon,Unreal Engine,Fresher
+343,Data Analytics,Hexaware,Ethical Hacking,Not Fresher
+344,Data Analytics,PwC,Tableau,Not Fresher
+345,Data Analytics,Yamaha,Docker,Not Fresher
+346,Mobile Development,Batt:RE,Microcontrollers,Not Fresher
+347,Game Development,Rockstar Games,C#,Not Fresher
+348,Embedded Systems,Qualcomm,Microcontrollers,Not Fresher
+349,Data Analytics,EY,Power BI,Not Fresher
+350,Embedded Systems,JK Cement,CI/CD,Not Fresher
+351,Game Development,Electronic Arts,Unreal Engine,Fresher
+352,Cloud Computing,Principal Global,CI/CD,Not Fresher
+353,Mobile Development,Samsung,Kotlin,Not Fresher
+354,DevOps,Domato Book Co.,React Native,Not Fresher
+355,Embedded Systems,Qualcomm,RTOS,Fresher
+356,Embedded Systems,Texas Instruments,Microcontrollers,Not Fresher
+357,AI/ML,Blackrock,Firewalls,Not Fresher
+358,Embedded Systems,Samsung,React,Not Fresher
+359,Data Analytics,Blackrock,C,Not Fresher
+360,Game Development,Navikenz Inc,Angular,Fresher
+361,Web Development,Hexaware,SQL,Not Fresher
+362,Mobile Development,Samsung,Kotlin,Not Fresher
+363,Game Development,Electronic Arts,Unity,Not Fresher
+364,Data Analytics,Google Cloud,Firewalls,Fresher
+365,Game Development,Ubisoft,C#,Not Fresher
+366,Cloud Computing,SunLife,C#,Not Fresher
+367,Cloud Computing,Blackrock,C#,Fresher
+368,Web Development,ICICI Prudential,Kubernetes,Not Fresher
+369,DevOps,Juniper Networks,SQL,Fresher
+370,Mobile Development,Scaler,React Native,Fresher
+371,AI/ML,OpenAI,Scikit-learn,Not Fresher
+372,Mobile Development,Samsung,Kotlin,Not Fresher
+373,Cybersecurity,Cisco,Ethical Hacking,Not Fresher
+374,Embedded Systems,Intel,C,Not Fresher
+375,Data Analytics,Deloitte,RTOS,Not Fresher
+376,AI/ML,ICICI Prudential,Network Security,Not Fresher
+377,DevOps,GitHub,CI/CD,Not Fresher
+378,DevOps,Red Hat,Docker,Not Fresher
+379,Mobile Development,Samsung,Kotlin,Fresher
+380,Mobile Development,Hyundai,Docker,Not Fresher
+381,DevOps,Atlassian,Docker,Not Fresher
+382,Cybersecurity,Secure Meters,TensorFlow,Not Fresher
+383,Cybersecurity,Cisco,Firewalls,Not Fresher
+384,Game Development,JSW,CI/CD,Fresher
+385,Data Analytics,PwC,Power BI,Fresher
+386,Cloud Computing,Navikenz Inc,Network Security,Not Fresher
+387,Web Development,Nokia,Firewalls,Not Fresher
+388,Cybersecurity,Zscaler,Ethical Hacking,Not Fresher
+389,DevOps,Sanguine Global,C#,Fresher
+390,DevOps,GitHub,CI/CD,Not Fresher
+391,Embedded Systems,Micron Semiconductor,React Native,Not Fresher
+392,AI/ML,OpenAI,PyTorch,Not Fresher
+393,Web Development,GitHub,AWS,Not Fresher
+394,Game Development,Seagate,Microcontrollers,Not Fresher
+395,Web Development,Watchguard,Unity,Not Fresher
+396,Data Analytics,NI Systems,SQL,Not Fresher
+397,Embedded Systems,Texas Instruments,C,Fresher
+398,Embedded Systems,Tata Consulting Engineers,React,Not Fresher
+399,Embedded Systems,Google Cloud,Network Security,Not Fresher
+400,Game Development,Rockstar Games,Unreal Engine,Not Fresher
+401,Mobile Development,Tata Consulting Engineers,Tableau,Not Fresher
+402,DevOps,GitHub,CI/CD,Fresher
+403,Game Development,Electronic Arts,Unity,Not Fresher
+404,DevOps,Red Hat,CI/CD,Not Fresher
+405,Mobile Development,Mahindra Comviva,AWS,Not Fresher
+406,Mobile Development,Google Cloud,Microcontrollers,Not Fresher
+407,Web Development,PwC,Network Security,Not Fresher
+408,Embedded Systems,Texas Instruments,Flutter,Not Fresher
+409,Mobile Development,Samsung,Kotlin,Not Fresher
+410,Cloud Computing,Tech Mahindra,C,Fresher
+411,Data Analytics,Intel,React,Fresher
+412,Data Analytics,Accolite,Unreal Engine,Not Fresher
+413,Cloud Computing,AWS,GCP,Fresher
+414,Data Analytics,Accenture,Kotlin,Not Fresher
+415,Mobile Development,Samsung,Flutter,Not Fresher
+416,Cybersecurity,TVS Motors,Unreal Engine,Not Fresher
+417,AI/ML,NVIDIA,Scikit-learn,Not Fresher
+418,Data Analytics,Deloitte,Tableau,Not Fresher
+419,AI/ML,Intel,CI/CD,Fresher
+420,Web Development,Amazon,HTML/CSS,Not Fresher
+421,Cloud Computing,Qualcomm,React,Not Fresher
+422,AI/ML,AWS,C#,Not Fresher
+423,DevOps,GitHub,CI/CD,Fresher
+424,Mobile Development,Samsung,Kotlin,Not Fresher
+425,Web Development,KPMG,Docker,Not Fresher
+426,Web Development,Microsoft,Angular,Not Fresher
+427,Cloud Computing,Google,React,Not Fresher
+428,Cybersecurity,Hexaware,Azure,Not Fresher
+429,Mobile Development,OnePlus,Kotlin,Fresher
+430,Data Analytics,Deloitte,SQL,Fresher
+431,Game Development,Electronic Arts,C#,Fresher
+432,Game Development,Rockstar Games,Unity,Fresher
+433,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+434,Mobile Development,Genpact,C#,Not Fresher
+435,AI/ML,DeepMind,TensorFlow,Fresher
+436,Data Analytics,Deloitte,Power BI,Fresher
+437,Embedded Systems,Secure Meters,HTML/CSS,Fresher
+438,Cloud Computing,AWS,Azure,Not Fresher
+439,Game Development,Tech Mahindra,RTOS,Fresher
+440,Game Development,Rockstar Games,Unity,Fresher
+441,Mobile Development,OnePlus,React Native,Not Fresher
+442,Data Analytics,JP Morgan,TensorFlow,Not Fresher
+443,Web Development,Palo Alto Networks,React,Fresher
+444,Data Analytics,Cipla,AWS,Not Fresher
+445,Game Development,Marsh McLennan,Scikit-learn,Fresher
+446,Mobile Development,Apple,Flutter,Not Fresher
+447,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+448,Web Development,Statcon Electronics,Unity,Not Fresher
+449,DevOps,Seagate,Kubernetes,Fresher
+450,Mobile Development,Apple,React Native,Not Fresher
+451,Game Development,EVAge Motors,Microcontrollers,Not Fresher
+452,DevOps,SAP Lab,Scikit-learn,Not Fresher
+453,Data Analytics,SAP Lab,Network Security,Fresher
+454,Game Development,Ubisoft,Unreal Engine,Not Fresher
+455,Web Development,Sabre,Tableau,Not Fresher
+456,DevOps,Red Hat,Docker,Not Fresher
+457,Cloud Computing,AWS,AWS,Not Fresher
+458,Cybersecurity,TVS Motors,AWS,Not Fresher
+459,Data Analytics,Cimpress,Azure,Not Fresher
+460,DevOps,Atlassian,CI/CD,Not Fresher
+461,Cybersecurity,Principal Global,React Native,Not Fresher
+462,Embedded Systems,Watchguard,Docker,Not Fresher
+463,AI/ML,Hyundai,Docker,Not Fresher
+464,Data Analytics,Deloitte,Tableau,Fresher
+465,Cloud Computing,Azure,Azure,Fresher
+466,Cloud Computing,Arvind Fashion,CI/CD,Not Fresher
+467,Cybersecurity,TCS,Ethical Hacking,Fresher
+468,Web Development,Microsoft,React,Not Fresher
+469,DevOps,SAP Lab,CI/CD,Not Fresher
+470,AI/ML,Rockstar Games,AWS,Fresher
+471,Embedded Systems,Marsh McLennan,CI/CD,Not Fresher
+472,Mobile Development,Samsung,Flutter,Fresher
+473,Embedded Systems,Secure Meters,Flutter,Fresher
+474,Cloud Computing,Azure,Azure,Fresher
+475,AI/ML,Palo Alto Networks,C,Not Fresher
+476,Game Development,Synopsys,React,Fresher
+477,Cybersecurity,Zscaler,Firewalls,Not Fresher
+478,DevOps,Red Hat,Kubernetes,Fresher
+479,DevOps,Atlassian,Kubernetes,Fresher
+480,Cybersecurity,Bosch Ltd.,Kubernetes,Fresher
+481,Mobile Development,HashedIn,Network Security,Not Fresher
+482,DevOps,Azure,Flutter,Not Fresher
+483,Mobile Development,Texas Instruments,SQL,Not Fresher
+484,Embedded Systems,KPMG,CI/CD,Fresher
+485,AI/ML,Cipla,C,Fresher
+486,Web Development,Amazon,React,Not Fresher
+487,Cybersecurity,Cisco,Firewalls,Not Fresher
+488,Cybersecurity,Zscaler,Network Security,Not Fresher
+489,Game Development,HSC,Angular,Not Fresher
+490,Cloud Computing,Azure,AWS,Not Fresher
+491,DevOps,GitHub,Kubernetes,Not Fresher
+492,Data Analytics,PwC,Tableau,Fresher
+493,Embedded Systems,Qualcomm,C,Not Fresher
+494,Game Development,NVIDIA,Firewalls,Not Fresher
+495,Web Development,Amazon,HTML/CSS,Not Fresher
+496,AI/ML,DeepMind,Scikit-learn,Not Fresher
+497,Embedded Systems,Texas Instruments,C,Not Fresher
+498,Data Analytics,EY,Tableau,Not Fresher
+499,Mobile Development,Samsung,React Native,Not Fresher
+500,Web Development,Microsoft,React,Not Fresher
+501,DevOps,Marsh McLennan,Scikit-learn,Fresher
+502,Mobile Development,OnePlus,Flutter,Not Fresher
+503,Cloud Computing,AWS,Azure,Fresher
+504,Game Development,TCS,Microcontrollers,Not Fresher
+505,Web Development,Microsoft,Angular,Not Fresher
+506,Mobile Development,Apple,React Native,Not Fresher
+507,Game Development,Bosch Ltd.,Kotlin,Fresher
+508,DevOps,Atlassian,Kubernetes,Not Fresher
+509,Cybersecurity,Zscaler,Firewalls,Fresher
+510,Data Analytics,EY,SQL,Not Fresher
+511,Game Development,Rockstar Games,Unity,Not Fresher
+512,Cloud Computing,AWS,Angular,Fresher
+513,Embedded Systems,Intel,Microcontrollers,Not Fresher
+514,Mobile Development,Microsoft,Flutter,Fresher
+515,Embedded Systems,JP Morgan,Firewalls,Not Fresher
+516,Cybersecurity,EY,C,Fresher
+517,Mobile Development,OnePlus,React Native,Not Fresher
+518,Web Development,Amazon,React,Fresher
+519,Cybersecurity,Hyundai,Network Security,Not Fresher
+520,Game Development,Microsoft,Kotlin,Not Fresher
+521,Cybersecurity,AWS,Docker,Fresher
+522,DevOps,Red Hat,Kubernetes,Fresher
+523,DevOps,Atlassian,CI/CD,Not Fresher
+524,DevOps,DeepMind,Unity,Not Fresher
+525,AI/ML,Microsoft,CI/CD,Not Fresher
+526,Embedded Systems,Rockstar Games,React Native,Not Fresher
+527,Embedded Systems,Qualcomm,Microcontrollers,Fresher
+528,AI/ML,Micron Semiconductor,Angular,Fresher
+529,AI/ML,OpenAI,PyTorch,Not Fresher
+530,Game Development,Google Cloud,React Native,Fresher
+531,AI/ML,DeepMind,Scikit-learn,Not Fresher
+532,DevOps,Cipla,Ethical Hacking,Not Fresher
+533,AI/ML,NVIDIA,PyTorch,Not Fresher
+534,DevOps,Red Hat,Docker,Not Fresher
+535,Game Development,Electronic Arts,C#,Not Fresher
+536,DevOps,GitHub,Kubernetes,Not Fresher
+537,Data Analytics,Sanguine Global,C#,Not Fresher
+538,Embedded Systems,Intel,RTOS,Not Fresher
+539,Game Development,Statcon Electronics,Angular,Not Fresher
+540,Embedded Systems,Deutsche Bank,Unreal Engine,Not Fresher
+541,Web Development,Microsoft,React,Not Fresher
+542,Game Development,Amazon,RTOS,Not Fresher
+543,Mobile Development,Hyundai,HTML/CSS,Not Fresher
+544,Cloud Computing,AWS,GCP,Not Fresher
+545,Mobile Development,Secure Meters,AWS,Not Fresher
+546,DevOps,Red Hat,CI/CD,Fresher
+547,AI/ML,DeepMind,PyTorch,Fresher
+548,AI/ML,Accolite,Microcontrollers,Not Fresher
+549,DevOps,GitHub,CI/CD,Not Fresher
+550,Game Development,Ubisoft,C#,Not Fresher
+551,Cloud Computing,Philips,Power BI,Not Fresher
+552,Game Development,Amazon,Ethical Hacking,Not Fresher
+553,Data Analytics,HashedIn,React,Not Fresher
+554,Embedded Systems,Intel,Microcontrollers,Not Fresher
+555,Embedded Systems,KPMG,HTML/CSS,Not Fresher
+556,Web Development,Amazon,React,Not Fresher
+557,Web Development,Microsoft,HTML/CSS,Not Fresher
+558,Mobile Development,Apple,Kotlin,Not Fresher
+559,Mobile Development,NI Systems,Kubernetes,Fresher
+560,DevOps,GitHub,Kubernetes,Not Fresher
+561,AI/ML,DeepMind,Scikit-learn,Not Fresher
+562,Cybersecurity,Scaler,Angular,Not Fresher
+563,Mobile Development,TCS,Kubernetes,Not Fresher
+564,Cloud Computing,Azure,AWS,Fresher
+565,AI/ML,Mahindra & Mahindra,Docker,Fresher
+566,Game Development,HSC,Microcontrollers,Not Fresher
+567,Mobile Development,Samsung,Kotlin,Not Fresher
+568,Mobile Development,Maverick Quantum,SQL,Not Fresher
+569,Data Analytics,Deloitte,Tableau,Not Fresher
+570,Cybersecurity,Cisco,Firewalls,Fresher
+571,AI/ML,NVIDIA,Scikit-learn,Not Fresher
+572,DevOps,Domato Book Co.,Azure,Not Fresher
+573,Cloud Computing,OpenAI,CI/CD,Not Fresher
+574,Mobile Development,Samsung,Flutter,Not Fresher
+575,Mobile Development,Samsung,Kotlin,Fresher
+576,DevOps,Silicon Labs,HTML/CSS,Fresher
+577,Cloud Computing,Microsoft,AWS,Fresher
+578,Mobile Development,Statcon Electronics,SQL,Not Fresher
+579,Data Analytics,Deloitte,SQL,Not Fresher
+580,AI/ML,DeepMind,Scikit-learn,Not Fresher
+581,Mobile Development,EVAge Motors,CI/CD,Not Fresher
+582,Web Development,Google,Angular,Not Fresher
+583,AI/ML,OpenAI,TensorFlow,Not Fresher
+584,Mobile Development,Samsung,Kotlin,Fresher
+585,Embedded Systems,Persistent,Network Security,Not Fresher
+586,Mobile Development,Apple,Kotlin,Not Fresher
+587,Data Analytics,Sabre,Microcontrollers,Not Fresher
+588,Embedded Systems,OpenAI,Scikit-learn,Not Fresher
+589,Cybersecurity,Seagate,Microcontrollers,Not Fresher
+590,Web Development,Google,React,Not Fresher
+591,Game Development,Ubisoft,C#,Fresher
+592,Data Analytics,Accenture,SQL,Fresher
+593,Embedded Systems,Cisco,Azure,Not Fresher
+594,Web Development,Amazon,HTML/CSS,Not Fresher
+595,Mobile Development,Cipla,Docker,Not Fresher
+596,Web Development,Microsoft,HTML/CSS,Not Fresher
+597,Cloud Computing,Azure,Azure,Not Fresher
+598,Mobile Development,OpenAI,Unity,Not Fresher
+599,Cloud Computing,Mahindra & Mahindra,CI/CD,Not Fresher
+600,Cloud Computing,Bosch Ltd.,Unity,Not Fresher
+601,Cloud Computing,AWS,Azure,Not Fresher
+602,Game Development,Ubisoft,Unreal Engine,Not Fresher
+603,Data Analytics,PwC,Tableau,Fresher
+604,AI/ML,Statcon Electronics,CI/CD,Not Fresher
+605,Cybersecurity,Yamaha,Unreal Engine,Not Fresher
+606,Embedded Systems,Texas Instruments,RTOS,Not Fresher
+607,DevOps,GitHub,Docker,Fresher
+608,Data Analytics,PwC,Tableau,Fresher
+609,Cloud Computing,Google Cloud,Azure,Not Fresher
+610,DevOps,Atlassian,CI/CD,Not Fresher
+611,Embedded Systems,Texas Instruments,Microcontrollers,Not Fresher
+612,Cloud Computing,TVS Motors,GCP,Not Fresher
+613,Cloud Computing,AWS,GCP,Not Fresher
+614,Web Development,Amazon,React,Fresher
+615,Mobile Development,Samsung,Kotlin,Not Fresher
+616,Web Development,Sabre,Firewalls,Not Fresher
+617,Data Analytics,PwC,Tableau,Not Fresher
+618,DevOps,Azure,CI/CD,Not Fresher
+619,Game Development,Ubisoft,Unreal Engine,Not Fresher
+620,Cybersecurity,JK Cement,Microcontrollers,Fresher
+621,AI/ML,Harness,Flutter,Not Fresher
+622,Cloud Computing,Accenture,CI/CD,Not Fresher
+623,Game Development,Ubisoft,Unreal Engine,Not Fresher
+624,Mobile Development,KPMG,C,Not Fresher
+625,Cloud Computing,Azure,Azure,Fresher
+626,Cybersecurity,Persistent,TensorFlow,Not Fresher
+627,AI/ML,OpenAI,TensorFlow,Fresher
+628,Data Analytics,EY,Power BI,Not Fresher
+629,Mobile Development,Amazon,HTML/CSS,Not Fresher
+630,Cybersecurity,Rockstar Games,Network Security,Not Fresher
+631,Cloud Computing,Azure,GCP,Not Fresher
+632,AI/ML,Cipla,RTOS,Not Fresher
+633,Mobile Development,Navikenz Inc,Scikit-learn,Not Fresher
+634,DevOps,HSC,Angular,Fresher
+635,Embedded Systems,Bosch Ltd.,Tableau,Not Fresher
+636,Cloud Computing,Azure,GCP,Fresher
+637,Mobile Development,Cipla,Flutter,Not Fresher
+638,Data Analytics,PwC,Tableau,Not Fresher
+639,Web Development,Hyundai,Microcontrollers,Fresher
+640,Data Analytics,Cisco,AWS,Fresher
+641,Cloud Computing,AWS,AWS,Not Fresher
+642,Cloud Computing,Rockstar Games,GCP,Fresher
+643,Embedded Systems,Cisco,Angular,Not Fresher
+644,Web Development,Google,HTML/CSS,Not Fresher
+645,Game Development,Watchguard,GCP,Not Fresher
+646,DevOps,GitHub,Docker,Not Fresher
+647,DevOps,GitHub,Kubernetes,Not Fresher
+648,Web Development,HSC,Docker,Not Fresher
+649,Cybersecurity,Palo Alto Networks,Firewalls,Not Fresher
+650,Cloud Computing,Azure,AWS,Not Fresher
+651,Game Development,KPMG,GCP,Not Fresher
+652,Cybersecurity,Azure,C,Not Fresher
+653,Game Development,Electronic Arts,C#,Not Fresher
+654,DevOps,rtCamp,HTML/CSS,Not Fresher
+655,Mobile Development,OnePlus,React Native,Not Fresher
+656,Web Development,Microsoft,HTML/CSS,Not Fresher
+657,Cybersecurity,SAP Lab,PyTorch,Fresher
+658,DevOps,Red Hat,CI/CD,Not Fresher
+659,Embedded Systems,Intel,C,Not Fresher
+660,Game Development,EVAge Motors,Ethical Hacking,Fresher
+661,Cybersecurity,Zscaler,Firewalls,Fresher
+662,Data Analytics,Deloitte,Tableau,Not Fresher
+663,Mobile Development,OnePlus,Kotlin,Not Fresher
+664,Web Development,Texas Instruments,Unity,Fresher
+665,Mobile Development,Accolite,AWS,Fresher
+666,AI/ML,NVIDIA,Scikit-learn,Not Fresher
+667,Game Development,Rockstar Games,C#,Not Fresher
+668,Game Development,Arvind Fashion,React Native,Not Fresher
+669,Data Analytics,Synopsys,React,Not Fresher
+670,AI/ML,OpenAI,TensorFlow,Not Fresher
+671,Cybersecurity,Rockstar Games,GCP,Not Fresher
+672,Game Development,Rockstar Games,Unreal Engine,Not Fresher
+673,Cloud Computing,Azure,GCP,Not Fresher
+674,DevOps,Batt:RE,PyTorch,Not Fresher
+675,Cybersecurity,Cisco,Network Security,Not Fresher
+676,Cloud Computing,Dell Technologies,Kubernetes,Fresher
+677,DevOps,GitHub,Docker,Not Fresher
+678,DevOps,Atlassian,Docker,Not Fresher
+679,Web Development,Amazon,React,Fresher
+680,Mobile Development,Samsung,Flutter,Fresher
+681,AI/ML,DeepMind,TensorFlow,Fresher
+682,Web Development,Amazon,HTML/CSS,Not Fresher
+683,Cybersecurity,Palo Alto Networks,Network Security,Not Fresher
+684,Web Development,TCS,TensorFlow,Not Fresher
+685,AI/ML,Intel,Firewalls,Not Fresher
+686,Mobile Development,OnePlus,Ethical Hacking,Not Fresher
+687,Game Development,Electronic Arts,Unity,Not Fresher
+688,Data Analytics,EY,SQL,Fresher
+689,Web Development,Amazon,React,Not Fresher
+690,Cybersecurity,Principal Global,React,Not Fresher
+691,Game Development,Ubisoft,Unity,Not Fresher
+692,Web Development,Google,React,Not Fresher
+693,Game Development,Domato Book Co.,Network Security,Fresher
+694,AI/ML,Scaler,Network Security,Not Fresher
+695,Game Development,Rockstar Games,Unity,Fresher
+696,Web Development,Dell Technologies,SQL,Not Fresher
+697,Cloud Computing,Yamaha,Tableau,Not Fresher
+698,DevOps,GitHub,Docker,Not Fresher
+699,DevOps,Genpact,React,Not Fresher
+700,DevOps,rtCamp,SQL,Not Fresher
+701,DevOps,HSC,Network Security,Not Fresher
+702,Embedded Systems,Texas Instruments,Kotlin,Fresher
+703,Data Analytics,Rockstar Games,Scikit-learn,Not Fresher
+704,Data Analytics,Deloitte,Flutter,Fresher
+705,Cloud Computing,KPMG,Network Security,Not Fresher
+706,AI/ML,DeepMind,Scikit-learn,Fresher
+707,Game Development,Palo Alto Networks,SQL,Not Fresher
+708,DevOps,Intel,Kubernetes,Not Fresher
+709,Web Development,Google,Angular,Not Fresher
+710,Mobile Development,OnePlus,Kotlin,Not Fresher
+711,AI/ML,Navikenz Inc,Scikit-learn,Not Fresher
+712,Game Development,SunLife,TensorFlow,Not Fresher
+713,Cybersecurity,Cisco,Firewalls,Not Fresher
+714,Mobile Development,Apple,Flutter,Not Fresher
+715,DevOps,Talsmart,Scikit-learn,Fresher
+716,Web Development,Google,Angular,Not Fresher
+717,Data Analytics,Schneider,Power BI,Fresher
+718,Web Development,Amazon,Angular,Not Fresher
+719,Web Development,Google,Angular,Not Fresher
+720,Web Development,Ubisoft,Kubernetes,Not Fresher
+721,AI/ML,KPMG,Firewalls,Not Fresher
+722,Embedded Systems,Silicon Labs,Unreal Engine,Not Fresher
+723,Embedded Systems,Intel,C,Not Fresher
+724,Cloud Computing,Google Cloud,GCP,Fresher
+725,DevOps,Atlassian,CI/CD,Not Fresher
+726,Cloud Computing,Nokia,Flutter,Fresher
+727,Cloud Computing,Google Cloud,Power BI,Fresher
+728,Game Development,British Telecom,Ethical Hacking,Not Fresher
+729,Data Analytics,Micron Semiconductor,HTML/CSS,Not Fresher
+730,Cloud Computing,Azure,GCP,Not Fresher
+731,Cloud Computing,AWS,Azure,Not Fresher
+732,Web Development,HSC,React Native,Not Fresher
+733,DevOps,GitHub,Docker,Not Fresher
+734,Data Analytics,EY,Tableau,Not Fresher
+735,Data Analytics,Watchguard,HTML/CSS,Not Fresher
+736,Data Analytics,Sanguine Global,Docker,Fresher
+737,Mobile Development,Samsung,Flutter,Not Fresher
+738,Embedded Systems,Intel,Microcontrollers,Not Fresher
+739,Data Analytics,PwC,SQL,Fresher
+740,Web Development,Google,Angular,Not Fresher
+741,Cloud Computing,Red Hat,RTOS,Fresher
+742,DevOps,Hexaware,GCP,Fresher
+743,Mobile Development,Zscaler,Azure,Not Fresher
+744,Cloud Computing,Azure,Azure,Not Fresher
+745,Embedded Systems,Texas Instruments,Microcontrollers,Not Fresher
+746,Cloud Computing,Samsung,Network Security,Not Fresher
+747,Web Development,Philips,React,Not Fresher
+748,Cybersecurity,Palo Alto Networks,Firewalls,Not Fresher
+749,Web Development,Tata Consulting Engineers,Flutter,Not Fresher
+750,Game Development,Electronic Arts,C#,Not Fresher
+751,Embedded Systems,Cipla,Unreal Engine,Not Fresher
+752,Data Analytics,Maverick Quantum,SQL,Fresher
+753,Game Development,Juniper Networks,AWS,Not Fresher
+754,Web Development,Microsoft,Angular,Not Fresher
+755,Cybersecurity,Microsoft,Network Security,Not Fresher
+756,Game Development,Arvind Fashion,Scikit-learn,Fresher
+757,Cybersecurity,Blackrock,React,Not Fresher
+758,Cloud Computing,Philips,Kotlin,Not Fresher
+759,DevOps,GitHub,CI/CD,Not Fresher
+760,Cybersecurity,Schneider,PyTorch,Not Fresher
+761,DevOps,Blackrock,Docker,Not Fresher
+762,AI/ML,Accolite,Kubernetes,Not Fresher
+763,Embedded Systems,Qualcomm,PyTorch,Not Fresher
+764,Mobile Development,Sanguine Global,Ethical Hacking,Fresher
+765,Game Development,Batt:RE,Angular,Not Fresher
+766,Mobile Development,OnePlus,React Native,Fresher
+767,Embedded Systems,Mahindra Comviva,Tableau,Not Fresher
+768,DevOps,GitHub,Docker,Not Fresher
+769,AI/ML,Intel,GCP,Not Fresher
+770,DevOps,Red Hat,Docker,Fresher
+771,Game Development,Maverick Quantum,React,Not Fresher
+772,Embedded Systems,Apple,Firewalls,Not Fresher
+773,AI/ML,OpenAI,Unreal Engine,Not Fresher
+774,Embedded Systems,Qualcomm,Microcontrollers,Not Fresher
+775,Mobile Development,OnePlus,Flutter,Not Fresher
+776,Cybersecurity,Cisco,Network Security,Fresher
+777,Web Development,Intel,Kubernetes,Fresher
+778,Data Analytics,Marsh McLennan,SQL,Not Fresher
+779,Mobile Development,Sanguine Global,Angular,Fresher
+780,Web Development,JSW,Azure,Not Fresher
+781,Cybersecurity,British Telecom,Docker,Not Fresher
+782,Mobile Development,Qualcomm,HTML/CSS,Not Fresher
+783,Cloud Computing,Sanguine Global,Azure,Fresher
+784,AI/ML,Azure,Scikit-learn,Not Fresher
+785,Embedded Systems,Intel,Microcontrollers,Not Fresher
+786,Web Development,Google,Angular,Not Fresher
+787,Mobile Development,Samsung,Flutter,Fresher
+788,Embedded Systems,Intel,RTOS,Not Fresher
+789,AI/ML,DeepMind,PyTorch,Not Fresher
+790,AI/ML,Nokia,Kubernetes,Not Fresher
+791,DevOps,Sabre,Azure,Not Fresher
+792,Mobile Development,JP Morgan,HTML/CSS,Not Fresher
+793,Mobile Development,Samsung,Flutter,Not Fresher
+794,AI/ML,Bosch Ltd.,Angular,Not Fresher
+795,Data Analytics,PwC,Tableau,Not Fresher
+796,Cloud Computing,AWS,AWS,Not Fresher
+797,Game Development,Silicon Labs,React Native,Not Fresher
+798,Cloud Computing,Texas Instruments,AWS,Not Fresher
+799,Web Development,Tata Consulting Engineers,Docker,Not Fresher
+800,Mobile Development,EVAge Motors,Firewalls,Not Fresher
+801,Cybersecurity,Juniper Networks,Angular,Not Fresher
+802,AI/ML,NVIDIA,PyTorch,Not Fresher
+803,AI/ML,Harness,GCP,Not Fresher
+804,Embedded Systems,Tech Mahindra,RTOS,Fresher
+805,Mobile Development,Samsung,Flutter,Not Fresher
+806,Web Development,Scaler,RTOS,Not Fresher
+807,Web Development,Google,HTML/CSS,Not Fresher
+808,DevOps,Harness,Kotlin,Not Fresher
+809,Web Development,Scaler,Tableau,Not Fresher
+810,Embedded Systems,Qualcomm,Tableau,Fresher
+811,Game Development,Mercer Mettl,Angular,Not Fresher
+812,Game Development,HSC,Ethical Hacking,Not Fresher
+813,Embedded Systems,Intel,C,Not Fresher
+814,Cybersecurity,Cisco,Network Security,Not Fresher
+815,Cloud Computing,Azure,Azure,Fresher
+816,DevOps,GitHub,Docker,Not Fresher
+817,Mobile Development,Navikenz Inc,Unreal Engine,Not Fresher
+818,Data Analytics,Accolite,Flutter,Not Fresher
+819,Cybersecurity,DeepMind,Microcontrollers,Not Fresher
+820,Data Analytics,Amazon,Unity,Not Fresher
+821,Cloud Computing,Mahindra Comviva,C,Fresher
+822,Data Analytics,Sabre,HTML/CSS,Not Fresher
+823,Data Analytics,Genpact,TensorFlow,Not Fresher
+824,Web Development,Amazon,HTML/CSS,Not Fresher
+825,Cybersecurity,Cisco,Ethical Hacking,Fresher
+826,Mobile Development,Domato Book Co.,Angular,Not Fresher
+827,Embedded Systems,rtCamp,Network Security,Fresher
+828,Cloud Computing,Azure,Azure,Not Fresher
+829,Game Development,Ubisoft,Unreal Engine,Not Fresher
+830,AI/ML,DeepMind,Scikit-learn,Not Fresher
+831,AI/ML,DeepMind,Scikit-learn,Fresher
+832,Mobile Development,AWS,GCP,Not Fresher
+833,AI/ML,OpenAI,TensorFlow,Not Fresher
+834,Web Development,Mercer Mettl,Unity,Not Fresher
+835,Embedded Systems,Intel,C,Not Fresher
+836,AI/ML,DeepMind,Scikit-learn,Not Fresher
+837,Game Development,Blackrock,RTOS,Fresher
+838,Mobile Development,OnePlus,Kotlin,Not Fresher
+839,Data Analytics,PwC,Tableau,Not Fresher
+840,Game Development,Deutsche Bank,Angular,Fresher
+841,AI/ML,Google,GCP,Fresher
+842,Embedded Systems,Ubisoft,Angular,Fresher
+843,Data Analytics,Celebal Technologies,React Native,Not Fresher
+844,Embedded Systems,Qualcomm,C,Not Fresher
+845,Cybersecurity,EY,Docker,Not Fresher
+846,AI/ML,Palo Alto Networks,RTOS,Not Fresher
+847,Data Analytics,Deloitte,Tableau,Not Fresher
+848,DevOps,Red Hat,Kubernetes,Not Fresher
+849,Mobile Development,Batt:RE,C,Not Fresher
+850,Mobile Development,Apple,Flutter,Not Fresher
+851,Embedded Systems,Philips,GCP,Not Fresher
+852,Embedded Systems,Tech Mahindra,Firewalls,Not Fresher
+853,AI/ML,Hyundai,C,Not Fresher
+854,Data Analytics,EY,Power BI,Not Fresher
+855,DevOps,Red Hat,CI/CD,Not Fresher
+856,DevOps,JK Cement,Kubernetes,Fresher
+857,Mobile Development,Apple,React Native,Not Fresher
+858,Embedded Systems,Atlassian,HTML/CSS,Not Fresher
+859,Cloud Computing,Micron Semiconductor,GCP,Fresher
+860,Data Analytics,PwC,GCP,Fresher
+861,Cloud Computing,Micron Semiconductor,Docker,Not Fresher
+862,Data Analytics,Oracle,React,Fresher
+863,Mobile Development,Principal Global,Microcontrollers,Not Fresher
+864,Data Analytics,EY,Power BI,Not Fresher
+865,DevOps,Microsoft,SQL,Not Fresher
+866,Web Development,Google,Angular,Fresher
+867,Data Analytics,Palo Alto Networks,GCP,Not Fresher
+868,Embedded Systems,Micron Semiconductor,SQL,Fresher
+869,Game Development,Talsmart,Power BI,Not Fresher
+870,Web Development,Microsoft,React,Not Fresher
+871,Data Analytics,Microsoft,Firewalls,Not Fresher
+872,Data Analytics,PwC,Tableau,Fresher
+873,Web Development,Mahindra Comviva,React,Not Fresher
+874,Cybersecurity,Nokia,Firewalls,Fresher
+875,Embedded Systems,Palo Alto Networks,Unreal Engine,Not Fresher
+876,Data Analytics,Oracle,Unity,Fresher
+877,Cybersecurity,Sabre,React,Not Fresher
+878,Cybersecurity,Cisco,Ethical Hacking,Fresher
+879,Cybersecurity,EY,Ethical Hacking,Not Fresher
+880,Embedded Systems,Intel,Microcontrollers,Not Fresher
+881,Data Analytics,Deloitte,Power BI,Not Fresher
+882,Embedded Systems,Cimpress,Ethical Hacking,Not Fresher
+883,Cloud Computing,Azure,AWS,Not Fresher
+884,Game Development,Principal Global,Firewalls,Not Fresher
+885,Embedded Systems,Intel,RTOS,Fresher
+886,Cloud Computing,Google Cloud,GCP,Fresher
+887,Cloud Computing,Azure,Azure,Not Fresher
+888,Data Analytics,EVAge Motors,Firewalls,Fresher
+889,Cybersecurity,Zscaler,Firewalls,Not Fresher
+890,AI/ML,Accenture,React Native,Fresher
+891,Cybersecurity,Cisco,Network Security,Fresher
+892,Embedded Systems,Qualcomm,Microcontrollers,Not Fresher
+893,Cloud Computing,EY,Docker,Not Fresher
+894,Data Analytics,Accenture,HTML/CSS,Fresher
+895,Game Development,Celebal Technologies,PyTorch,Not Fresher
+896,Cybersecurity,Zscaler,Ethical Hacking,Not Fresher
+897,AI/ML,OpenAI,Scikit-learn,Not Fresher
+898,Cybersecurity,Red Hat,Kotlin,Not Fresher
+899,Cloud Computing,Sabre,HTML/CSS,Not Fresher
+900,Mobile Development,OnePlus,React Native,Not Fresher
+901,Web Development,TCS,React,Not Fresher
+902,Mobile Development,OnePlus,Kotlin,Not Fresher
+903,AI/ML,Juniper Networks,Kotlin,Not Fresher
+904,AI/ML,OpenAI,TensorFlow,Fresher
+905,Embedded Systems,Intel,Microcontrollers,Not Fresher
+906,AI/ML,Batt:RE,React,Fresher
+907,Web Development,Mahindra Comviva,AWS,Not Fresher
+908,Embedded Systems,Juniper Networks,Power BI,Not Fresher
+909,AI/ML,OpenAI,TensorFlow,Fresher
+910,Data Analytics,PwC,Power BI,Not Fresher
+911,Web Development,Genpact,Firewalls,Not Fresher
+912,Game Development,Harness,Kotlin,Not Fresher
+913,Game Development,Schneider,Network Security,Not Fresher
+914,Embedded Systems,Dell Technologies,C#,Not Fresher
+915,Embedded Systems,Navikenz Inc,Ethical Hacking,Fresher
+916,AI/ML,OpenAI,PyTorch,Not Fresher
+917,DevOps,Tech Mahindra,Network Security,Not Fresher
+918,Embedded Systems,Qualcomm,C,Not Fresher
+919,Game Development,TVS Motors,Network Security,Fresher
+920,Cybersecurity,Palo Alto Networks,Network Security,Not Fresher
+921,Cloud Computing,Azure,GCP,Fresher
+922,Embedded Systems,Intel,C,Not Fresher
+923,Embedded Systems,Seagate,Kotlin,Not Fresher
+924,DevOps,Domato Book Co.,TensorFlow,Not Fresher
+925,Mobile Development,Apple,Flutter,Not Fresher
+926,Embedded Systems,Intel,Microcontrollers,Not Fresher
+927,AI/ML,OpenAI,PyTorch,Not Fresher
+928,Cybersecurity,Watchguard,HTML/CSS,Not Fresher
+929,DevOps,HashedIn,Microcontrollers,Not Fresher
+930,Data Analytics,JP Morgan,Network Security,Not Fresher
+931,Mobile Development,OnePlus,Kotlin,Not Fresher
+932,DevOps,Red Hat,Docker,Not Fresher
+933,Data Analytics,SAP Lab,CI/CD,Not Fresher
+934,Game Development,Amazon,C#,Not Fresher
+935,Mobile Development,OnePlus,React Native,Not Fresher
+936,Data Analytics,Mahindra & Mahindra,C,Not Fresher
+937,Cloud Computing,AWS,AWS,Not Fresher
+938,AI/ML,DeepMind,Scikit-learn,Not Fresher
+939,Cloud Computing,Azure,GCP,Not Fresher
+940,Mobile Development,OnePlus,Kotlin,Not Fresher
+941,Game Development,Oracle,Kubernetes,Fresher
+942,Web Development,Micron Semiconductor,GCP,Fresher
+943,Web Development,Google,React,Not Fresher
+944,DevOps,GitHub,Docker,Not Fresher
+945,Cloud Computing,AWS,AWS,Fresher
+946,Web Development,Google,HTML/CSS,Fresher
+947,Game Development,Maverick Quantum,CI/CD,Not Fresher
+948,Cloud Computing,Azure,AWS,Not Fresher
+949,AI/ML,Persistent,Azure,Not Fresher
+950,Game Development,Ubisoft,C#,Not Fresher
+951,Cybersecurity,Azure,Ethical Hacking,Not Fresher
+952,Embedded Systems,Celebal Technologies,AWS,Not Fresher
+953,Web Development,Amazon,Angular,Not Fresher
+954,Game Development,NI Systems,GCP,Fresher
+955,Embedded Systems,Intel,C,Fresher
+956,Mobile Development,Yamaha,HTML/CSS,Not Fresher
+957,AI/ML,DeepMind,PyTorch,Not Fresher
+958,DevOps,Google,React Native,Fresher
+959,Data Analytics,PwC,SQL,Not Fresher
+960,Embedded Systems,Micron Semiconductor,Unreal Engine,Not Fresher
+961,Game Development,Intel,Kubernetes,Not Fresher
+962,Web Development,EY,C,Not Fresher
+963,Embedded Systems,Silicon Labs,C#,Not Fresher
+964,AI/ML,Principal Global,Azure,Not Fresher
+965,Embedded Systems,Azure,Unreal Engine,Not Fresher
+966,Mobile Development,Dell Technologies,SQL,Not Fresher
+967,Embedded Systems,Watchguard,Flutter,Not Fresher
+968,Web Development,Google,HTML/CSS,Not Fresher
+969,Web Development,SAP Lab,Firewalls,Not Fresher
+970,Mobile Development,Samsung,React Native,Not Fresher
+971,Mobile Development,Apple,Flutter,Not Fresher
+972,Cybersecurity,Navikenz Inc,GCP,Not Fresher
+973,AI/ML,SAP Scholar,Microcontrollers,Fresher
+974,Cloud Computing,Azure,Azure,Not Fresher
+975,AI/ML,Cipla,Kotlin,Not Fresher
+976,AI/ML,DeepMind,PyTorch,Not Fresher
+977,Game Development,Celebal Technologies,Kotlin,Not Fresher
+978,DevOps,Atlassian,CI/CD,Not Fresher
+979,AI/ML,DeepMind,Scikit-learn,Not Fresher
+980,Mobile Development,Marsh McLennan,AWS,Fresher
+981,Mobile Development,Arvind Fashion,Kubernetes,Fresher
+982,Mobile Development,Samsung,Flutter,Not Fresher
+983,Embedded Systems,Blackrock,Kotlin,Fresher
+984,Mobile Development,Azure,Flutter,Not Fresher
+985,Cloud Computing,NI Systems,PyTorch,Fresher
+986,Web Development,Google,HTML/CSS,Not Fresher
+987,Embedded Systems,Intel,C,Not Fresher
+988,Cybersecurity,Palo Alto Networks,Ethical Hacking,Not Fresher
+989,Cloud Computing,Red Hat,Docker,Fresher
+990,Cybersecurity,Zscaler,Ethical Hacking,Not Fresher
+991,DevOps,HSC,Scikit-learn,Fresher
+992,Cybersecurity,Zscaler,Ethical Hacking,Not Fresher
+993,Embedded Systems,OpenAI,C#,Not Fresher
+994,Cloud Computing,KPMG,Unreal Engine,Fresher
+995,Web Development,Electronic Arts,PyTorch,Fresher
+996,Game Development,Ubisoft,C#,Not Fresher
+997,Web Development,Mahindra & Mahindra,Power BI,Not Fresher
+998,Cloud Computing,NI Systems,AWS,Fresher
+999,Embedded Systems,Texas Instruments,C,Fresher
+1000,Game Development,Ubisoft,C#,Fresher
+1001,DevOps,Red Hat,CI/CD,Not Fresher
+1002,Cybersecurity,Samsung,AWS,Not Fresher
+1003,AI/ML,NVIDIA,PyTorch,Not Fresher
+1004,Embedded Systems,Maverick Quantum,C#,Fresher
+1005,Web Development,Qualcomm,C#,Not Fresher
+1006,Web Development,Microsoft,Angular,Not Fresher
+1007,Game Development,Palo Alto Networks,Tableau,Not Fresher
+1008,Cloud Computing,Azure,Azure,Fresher
+1009,Embedded Systems,British Telecom,Scikit-learn,Not Fresher
+1010,Cloud Computing,Statcon Electronics,Power BI,Not Fresher
+1011,Data Analytics,PwC,SQL,Not Fresher
+1012,Cybersecurity,Cisco,Network Security,Fresher
+1013,Data Analytics,Secure Meters,Kotlin,Not Fresher
+1014,DevOps,GitHub,CI/CD,Fresher
+1015,Mobile Development,KPMG,Network Security,Not Fresher
+1016,DevOps,GitHub,Kubernetes,Not Fresher
+1017,AI/ML,Watchguard,Kotlin,Fresher
+1018,Mobile Development,SAP Lab,CI/CD,Not Fresher
+1019,DevOps,GitHub,Kubernetes,Not Fresher
+1020,Mobile Development,Apple,Kotlin,Not Fresher
+1021,Mobile Development,Cimpress,Microcontrollers,Not Fresher
+1022,Cybersecurity,Zscaler,Ethical Hacking,Not Fresher
+1023,DevOps,GitHub,CI/CD,Not Fresher
+1024,DevOps,Tata Consulting Engineers,Microcontrollers,Not Fresher
+1025,Embedded Systems,Mahindra & Mahindra,AWS,Not Fresher
+1026,Mobile Development,Samsung,Flutter,Not Fresher
+1027,Cloud Computing,Domato Book Co.,CI/CD,Not Fresher
+1028,Cloud Computing,Google Cloud,Azure,Fresher
+1029,AI/ML,OpenAI,TensorFlow,Not Fresher
+1030,Game Development,British Telecom,Power BI,Not Fresher
+1031,Mobile Development,Samsung,Flutter,Not Fresher
+1032,Web Development,Amazon,Angular,Not Fresher
+1033,Embedded Systems,Sanguine Global,Microcontrollers,Fresher
+1034,AI/ML,Palo Alto Networks,Kotlin,Not Fresher
+1035,AI/ML,NVIDIA,Scikit-learn,Not Fresher
+1036,Web Development,Google,Angular,Not Fresher
+1037,Mobile Development,Amazon,Microcontrollers,Not Fresher
+1038,AI/ML,Celebal Technologies,C#,Not Fresher
+1039,Data Analytics,Domato Book Co.,React Native,Not Fresher
+1040,Embedded Systems,NVIDIA,React,Not Fresher
+1041,Cybersecurity,Texas Instruments,Unreal Engine,Fresher
+1042,Mobile Development,Philips,Scikit-learn,Not Fresher
+1043,AI/ML,Genpact,Microcontrollers,Not Fresher
+1044,Mobile Development,Atlassian,RTOS,Not Fresher
+1045,Web Development,Cipla,Unity,Fresher
+1046,Embedded Systems,Qualcomm,CI/CD,Not Fresher
+1047,Data Analytics,Scaler,RTOS,Not Fresher
+1048,AI/ML,Zscaler,PyTorch,Not Fresher
+1049,AI/ML,OpenAI,TensorFlow,Not Fresher
+1050,Game Development,Maverick Quantum,HTML/CSS,Not Fresher
+1051,Web Development,Microsoft,HTML/CSS,Not Fresher
+1052,AI/ML,Zscaler,CI/CD,Not Fresher
+1053,Cloud Computing,Oracle,Flutter,Not Fresher
+1054,Data Analytics,Deloitte,Tableau,Fresher
+1055,Data Analytics,HSC,React Native,Fresher
+1056,DevOps,Accenture,Tableau,Fresher
+1057,Cybersecurity,Cisco,Ethical Hacking,Not Fresher
+1058,AI/ML,rtCamp,Kotlin,Not Fresher
+1059,Data Analytics,EY,Power BI,Not Fresher
+1060,DevOps,JK Cement,SQL,Fresher
+1061,Embedded Systems,Intel,C,Not Fresher
+1062,Web Development,Secure Meters,Flutter,Not Fresher
+1063,AI/ML,DeepMind,Scikit-learn,Not Fresher
+1064,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+1065,Mobile Development,TVS Motors,CI/CD,Fresher
+1066,Cloud Computing,Azure,GCP,Not Fresher
+1067,DevOps,Atlassian,Kubernetes,Not Fresher
+1068,Web Development,Cisco,CI/CD,Not Fresher
+1069,Embedded Systems,Qualcomm,Microcontrollers,Not Fresher
+1070,Cybersecurity,Zscaler,Network Security,Fresher
+1071,Cybersecurity,JK Cement,React Native,Not Fresher
+1072,Game Development,Rockstar Games,C#,Fresher
+1073,Web Development,Microsoft,HTML/CSS,Not Fresher
+1074,Embedded Systems,TCS,Scikit-learn,Not Fresher
+1075,Mobile Development,rtCamp,Ethical Hacking,Not Fresher
+1076,Game Development,EVAge Motors,Kubernetes,Fresher
+1077,Cybersecurity,Deloitte,Ethical Hacking,Not Fresher
+1078,Mobile Development,Scaler,TensorFlow,Not Fresher
+1079,Embedded Systems,Texas Instruments,RTOS,Not Fresher
+1080,Cloud Computing,Azure,Azure,Not Fresher
+1081,Cybersecurity,Celebal Technologies,Azure,Not Fresher
+1082,Web Development,Amazon,React,Not Fresher
+1083,Game Development,Maverick Quantum,Firewalls,Not Fresher
+1084,Embedded Systems,Texas Instruments,Microcontrollers,Fresher
+1085,Data Analytics,Google,TensorFlow,Fresher
+1086,AI/ML,Apple,CI/CD,Fresher
+1087,Game Development,Ubisoft,Unity,Not Fresher
+1088,Cybersecurity,SunLife,Scikit-learn,Fresher
+1089,Web Development,Microsoft,Angular,Not Fresher
+1090,AI/ML,Micron Semiconductor,TensorFlow,Not Fresher
+1091,Game Development,Infosys,Ethical Hacking,Not Fresher
+1092,Embedded Systems,Cimpress,RTOS,Not Fresher
+1093,Data Analytics,Ubisoft,Tableau,Not Fresher
+1094,Cybersecurity,Secure Meters,AWS,Not Fresher
+1095,AI/ML,EY,Network Security,Not Fresher
+1096,Cloud Computing,Juniper Networks,Scikit-learn,Fresher
+1097,Web Development,Google,React,Fresher
+1098,Game Development,Blackrock,Flutter,Not Fresher
+1099,Cloud Computing,SAP Scholar,Firewalls,Not Fresher
+1100,Game Development,Ubisoft,Unreal Engine,Fresher
+1101,AI/ML,NI Systems,CI/CD,Not Fresher
+1102,Mobile Development,Persistent,Network Security,Not Fresher
+1103,Cybersecurity,Palo Alto Networks,Network Security,Not Fresher
+1104,Data Analytics,PwC,Tableau,Not Fresher
+1105,AI/ML,rtCamp,Unreal Engine,Fresher
+1106,Web Development,Google,Angular,Fresher
+1107,Game Development,Electronic Arts,Unity,Not Fresher
+1108,AI/ML,OpenAI,PyTorch,Not Fresher
+1109,Web Development,Watchguard,Microcontrollers,Not Fresher
+1110,DevOps,GitHub,Docker,Not Fresher
+1111,Data Analytics,Google Cloud,Firewalls,Not Fresher
+1112,Embedded Systems,Qualcomm,RTOS,Fresher
+1113,DevOps,Mercer Mettl,Kubernetes,Not Fresher
+1114,Web Development,Bosch Ltd.,Unreal Engine,Not Fresher
+1115,AI/ML,Texas Instruments,C,Fresher
+1116,Cybersecurity,Zscaler,Ethical Hacking,Not Fresher
+1117,Game Development,Rockstar Games,Unity,Fresher
+1118,Web Development,Google,React,Not Fresher
+1119,Web Development,Google,HTML/CSS,Not Fresher
+1120,AI/ML,DeepMind,Scikit-learn,Not Fresher
+1121,Data Analytics,Deloitte,Tableau,Not Fresher
+1122,Mobile Development,Amazon,Power BI,Fresher
+1123,Data Analytics,Apple,Angular,Not Fresher
+1124,Mobile Development,Hyundai,React,Not Fresher
+1125,Embedded Systems,Qualcomm,Microcontrollers,Not Fresher
+1126,Game Development,Electronic Arts,Unity,Not Fresher
+1127,Cybersecurity,Cisco,Network Security,Not Fresher
+1128,Embedded Systems,Intel,RTOS,Not Fresher
+1129,Data Analytics,Deloitte,Tableau,Not Fresher
+1130,DevOps,Watchguard,SQL,Not Fresher
+1131,Embedded Systems,Intel,RTOS,Not Fresher
+1132,DevOps,Atlassian,Docker,Not Fresher
+1133,Web Development,Amazon,HTML/CSS,Not Fresher
+1134,Data Analytics,Deloitte,Scikit-learn,Not Fresher
+1135,Cloud Computing,Texas Instruments,Kotlin,Not Fresher
+1136,Embedded Systems,Micron Semiconductor,Ethical Hacking,Not Fresher
+1137,DevOps,Red Hat,Kubernetes,Not Fresher
+1138,DevOps,Watchguard,Azure,Not Fresher
+1139,Cloud Computing,British Telecom,PyTorch,Not Fresher
+1140,Data Analytics,Google,Tableau,Not Fresher
+1141,AI/ML,DeepMind,PyTorch,Not Fresher
+1142,Cloud Computing,Cimpress,Unity,Not Fresher
+1143,Game Development,Ubisoft,Unreal Engine,Not Fresher
+1144,Data Analytics,Genpact,Firewalls,Not Fresher
+1145,Cybersecurity,Seagate,Firewalls,Not Fresher
+1146,Data Analytics,EY,SQL,Fresher
+1147,Game Development,Rockstar Games,Unreal Engine,Not Fresher
+1148,Cloud Computing,Azure,GCP,Fresher
+1149,Data Analytics,PwC,SQL,Not Fresher
+1150,Web Development,Google,React,Not Fresher
+1151,Game Development,Electronic Arts,Unity,Not Fresher
+1152,Mobile Development,SAP Lab,Azure,Not Fresher
+1153,Data Analytics,Persistent,Flutter,Fresher
+1154,Embedded Systems,Texas Instruments,C,Not Fresher
+1155,Cloud Computing,Statcon Electronics,Network Security,Fresher
+1156,AI/ML,HSC,Angular,Not Fresher
+1157,AI/ML,Azure,RTOS,Not Fresher
+1158,Game Development,Cipla,Docker,Not Fresher
+1159,Data Analytics,EY,SQL,Fresher
+1160,DevOps,OnePlus,Tableau,Not Fresher
+1161,AI/ML,NVIDIA,Scikit-learn,Not Fresher
+1162,AI/ML,EY,GCP,Not Fresher
+1163,Cloud Computing,Azure,GCP,Fresher
+1164,Game Development,Azure,React,Not Fresher
+1165,Cybersecurity,Atlassian,Kubernetes,Not Fresher
+1166,Cloud Computing,SAP Lab,RTOS,Not Fresher
+1167,DevOps,Atlassian,Kubernetes,Fresher
+1168,Game Development,Electronic Arts,C#,Not Fresher
+1169,Cloud Computing,Atlassian,Flutter,Not Fresher
+1170,Data Analytics,Maverick Quantum,Scikit-learn,Not Fresher
+1171,Cybersecurity,Mercer Mettl,Kubernetes,Not Fresher
+1172,DevOps,Red Hat,Kubernetes,Not Fresher
+1173,Web Development,Microsoft,Angular,Not Fresher
+1174,Web Development,EY,C#,Not Fresher
+1175,Cybersecurity,Palo Alto Networks,Network Security,Not Fresher
+1176,DevOps,ICICI Prudential,Azure,Fresher
+1177,AI/ML,OpenAI,PyTorch,Not Fresher
+1178,DevOps,Atlassian,Docker,Not Fresher
+1179,Cybersecurity,Zscaler,Ethical Hacking,Fresher
+1180,Cloud Computing,Azure,Azure,Not Fresher
+1181,Cloud Computing,Harness,Scikit-learn,Not Fresher
+1182,Game Development,Philips,Firewalls,Not Fresher
+1183,Web Development,Google,React,Fresher
+1184,Cloud Computing,Azure,GCP,Fresher
+1185,AI/ML,NVIDIA,PyTorch,Not Fresher
+1186,Embedded Systems,Texas Instruments,Microcontrollers,Not Fresher
+1187,Data Analytics,PwC,Tableau,Not Fresher
+1188,Embedded Systems,Domato Book Co.,Power BI,Fresher
+1189,Data Analytics,Persistent,C,Not Fresher
+1190,Mobile Development,Statcon Electronics,Kotlin,Not Fresher
+1191,Cloud Computing,Google Cloud,GCP,Not Fresher
+1192,DevOps,Atlassian,CI/CD,Not Fresher
+1193,Cybersecurity,Zscaler,Firewalls,Not Fresher
+1194,Embedded Systems,Texas Instruments,RTOS,Not Fresher
+1195,Web Development,Amazon,HTML/CSS,Not Fresher
+1196,Cloud Computing,Azure,GCP,Fresher
+1197,Cybersecurity,Tata Consulting Engineers,Ethical Hacking,Fresher
+1198,Mobile Development,Mercer Mettl,Unreal Engine,Fresher
+1199,Cloud Computing,Google Cloud,AWS,Not Fresher
+1200,Game Development,JP Morgan,Firewalls,Fresher
+1201,Data Analytics,Accolite,React,Not Fresher
+1202,Embedded Systems,Intel,Microcontrollers,Not Fresher
+1203,AI/ML,OpenAI,Scikit-learn,Not Fresher
+1204,Cybersecurity,Cisco,Ethical Hacking,Not Fresher
+1205,Web Development,Google,HTML/CSS,Not Fresher
+1206,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+1207,AI/ML,OpenAI,TensorFlow,Not Fresher
+1208,DevOps,AWS,Firewalls,Not Fresher
+1209,Embedded Systems,Tech Mahindra,AWS,Not Fresher
+1210,Web Development,Google,React,Not Fresher
+1211,DevOps,Red Hat,CI/CD,Fresher
+1212,DevOps,Google,Unreal Engine,Not Fresher
+1213,Cybersecurity,Cisco,Firewalls,Not Fresher
+1214,AI/ML,NVIDIA,PyTorch,Not Fresher
+1215,Mobile Development,JSW,Docker,Not Fresher
+1216,Data Analytics,Deloitte,Tableau,Fresher
+1217,Game Development,Rockstar Games,C#,Not Fresher
+1218,Web Development,Hyundai,Unreal Engine,Not Fresher
+1219,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+1220,Embedded Systems,Texas Instruments,RTOS,Not Fresher
+1221,Game Development,Ubisoft,Unity,Not Fresher
+1222,Data Analytics,Schneider,Tableau,Not Fresher
+1223,Embedded Systems,Oracle,Flutter,Not Fresher
+1224,Cybersecurity,Apple,Ethical Hacking,Not Fresher
+1225,Web Development,Talsmart,React Native,Not Fresher
+1226,Game Development,Rockstar Games,Unreal Engine,Not Fresher
+1227,DevOps,SAP Lab,C,Fresher
+1228,Game Development,Samsung,Network Security,Not Fresher
+1229,AI/ML,OpenAI,Scikit-learn,Not Fresher
+1230,Cybersecurity,Zscaler,Firewalls,Fresher
+1231,Cloud Computing,Harness,Scikit-learn,Not Fresher
+1232,Cybersecurity,Cisco,Ethical Hacking,Not Fresher
+1233,Cybersecurity,Cisco,Ethical Hacking,Not Fresher
+1234,Web Development,Schneider,HTML/CSS,Not Fresher
+1235,Embedded Systems,Intel,Microcontrollers,Fresher
+1236,DevOps,GitHub,Kubernetes,Not Fresher
+1237,Mobile Development,rtCamp,Unity,Not Fresher
+1238,Data Analytics,Deloitte,Power BI,Not Fresher
+1239,Embedded Systems,Cisco,Unity,Not Fresher
+1240,AI/ML,JSW,C#,Not Fresher
+1241,Web Development,Microsoft,HTML/CSS,Not Fresher
+1242,Mobile Development,Amazon,Unreal Engine,Fresher
+1243,Game Development,Azure,Azure,Not Fresher
+1244,Game Development,Statcon Electronics,Microcontrollers,Fresher
+1245,Web Development,Deutsche Bank,Microcontrollers,Fresher
+1246,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+1247,AI/ML,DeepMind,TensorFlow,Not Fresher
+1248,Embedded Systems,Talsmart,C#,Not Fresher
+1249,Game Development,Electronic Arts,Unreal Engine,Fresher
+1250,Cloud Computing,AWS,AWS,Not Fresher
+1251,AI/ML,NVIDIA,TensorFlow,Not Fresher
+1252,AI/ML,Amazon,PyTorch,Not Fresher
+1253,Embedded Systems,Qualcomm,RTOS,Fresher
+1254,Data Analytics,Genpact,Scikit-learn,Not Fresher
+1255,Cybersecurity,HashedIn,Kubernetes,Fresher
+1256,Web Development,HSC,AWS,Not Fresher
+1257,Data Analytics,PwC,SQL,Not Fresher
+1258,Mobile Development,PwC,GCP,Not Fresher
+1259,Cloud Computing,Hexaware,GCP,Fresher
+1260,AI/ML,NI Systems,C#,Not Fresher
+1261,Cloud Computing,Persistent,RTOS,Not Fresher
+1262,Web Development,Amazon,HTML/CSS,Not Fresher
+1263,AI/ML,SAP Lab,Firewalls,Not Fresher
+1264,Embedded Systems,Celebal Technologies,Firewalls,Not Fresher
+1265,Cybersecurity,KPMG,Firewalls,Not Fresher
+1266,Cloud Computing,Maverick Quantum,Power BI,Fresher
+1267,AI/ML,Harness,Angular,Not Fresher
+1268,Embedded Systems,Rockstar Games,AWS,Not Fresher
+1269,Cybersecurity,Yamaha,GCP,Not Fresher
+1270,AI/ML,NVIDIA,PyTorch,Fresher
+1271,DevOps,GitHub,Kubernetes,Not Fresher
+1272,Cybersecurity,Schneider,SQL,Not Fresher
+1273,AI/ML,OpenAI,TensorFlow,Not Fresher
+1274,Embedded Systems,Intel,C,Not Fresher
+1275,Embedded Systems,Accenture,Kotlin,Not Fresher
+1276,Cybersecurity,Palo Alto Networks,Firewalls,Not Fresher
+1277,Game Development,Electronic Arts,C#,Fresher
+1278,Cloud Computing,Azure,AWS,Not Fresher
+1279,Mobile Development,OnePlus,Kotlin,Fresher
+1280,Web Development,Google,React,Not Fresher
+1281,Cybersecurity,Cisco,Network Security,Not Fresher
+1282,Cybersecurity,Texas Instruments,SQL,Fresher
+1283,Mobile Development,Samsung,React Native,Not Fresher
+1284,Game Development,Ubisoft,Unity,Not Fresher
+1285,DevOps,Persistent,Network Security,Not Fresher
+1286,Web Development,Google,Angular,Not Fresher
+1287,Web Development,Statcon Electronics,C#,Not Fresher
+1288,Mobile Development,Samsung,React Native,Not Fresher
+1289,Cybersecurity,Cisco,Ethical Hacking,Not Fresher
+1290,Mobile Development,Deutsche Bank,Ethical Hacking,Fresher
+1291,Mobile Development,OnePlus,Kotlin,Not Fresher
+1292,Mobile Development,Apple,React Native,Not Fresher
+1293,Cloud Computing,Red Hat,React Native,Not Fresher
+1294,Data Analytics,EY,SQL,Not Fresher
+1295,DevOps,Red Hat,Kubernetes,Fresher
+1296,DevOps,OpenAI,PyTorch,Fresher
+1297,Mobile Development,Mercer Mettl,RTOS,Not Fresher
+1298,DevOps,Scaler,CI/CD,Fresher
+1299,Cybersecurity,Cisco,Firewalls,Fresher
+1300,Game Development,Google,C,Not Fresher
+1301,Embedded Systems,ICICI Prudential,Unity,Not Fresher
+1302,Web Development,Sanguine Global,Power BI,Not Fresher
+1303,Game Development,Accolite,Kotlin,Not Fresher
+1304,DevOps,Texas Instruments,SQL,Not Fresher
+1305,DevOps,GitHub,Docker,Not Fresher
+1306,Cybersecurity,Zscaler,Network Security,Not Fresher
+1307,Web Development,Microsoft,HTML/CSS,Not Fresher
+1308,Mobile Development,Microsoft,Angular,Fresher
+1309,Web Development,Amazon,React,Not Fresher
+1310,Embedded Systems,DeepMind,Tableau,Fresher
+1311,Web Development,Amazon,Angular,Fresher
+1312,Data Analytics,Azure,Unity,Not Fresher
+1313,Mobile Development,TCS,C#,Fresher
+1314,Cybersecurity,SAP Scholar,PyTorch,Fresher
+1315,Mobile Development,Samsung,Kotlin,Not Fresher
+1316,Embedded Systems,Apple,TensorFlow,Fresher
+1317,Mobile Development,Apple,React Native,Not Fresher
+1318,Data Analytics,PwC,Power BI,Not Fresher
+1319,Cloud Computing,HSC,RTOS,Not Fresher
+1320,Cybersecurity,Domato Book Co.,Tableau,Fresher
+1321,Web Development,Google,HTML/CSS,Not Fresher
+1322,Cloud Computing,Oracle,C#,Not Fresher
+1323,Embedded Systems,Qualcomm,Microcontrollers,Not Fresher
+1324,Data Analytics,Samsung,PyTorch,Not Fresher
+1325,AI/ML,Zscaler,Firewalls,Fresher
+1326,Cloud Computing,Google Cloud,GCP,Not Fresher
+1327,Web Development,PwC,Angular,Not Fresher
+1328,AI/ML,Samsung,Ethical Hacking,Not Fresher
+1329,Web Development,Google,React,Fresher
+1330,Cybersecurity,Zscaler,Network Security,Not Fresher
+1331,Mobile Development,Apple,React Native,Not Fresher
+1332,Mobile Development,Apple,Kotlin,Not Fresher
+1333,Cloud Computing,AWS,GCP,Not Fresher
+1334,Cybersecurity,Cisco,Firewalls,Fresher
+1335,Embedded Systems,Qualcomm,Microcontrollers,Not Fresher
+1336,AI/ML,Nokia,SQL,Fresher
+1337,AI/ML,Amazon,RTOS,Not Fresher
+1338,Embedded Systems,Intel,C,Not Fresher
+1339,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+1340,DevOps,Atlassian,Docker,Not Fresher
+1341,Embedded Systems,Intel,Microcontrollers,Not Fresher
+1342,Cybersecurity,Cisco,Firewalls,Not Fresher
+1343,AI/ML,NVIDIA,TensorFlow,Fresher
+1344,Cloud Computing,Red Hat,SQL,Fresher
+1345,Web Development,Sabre,React Native,Not Fresher
+1346,Cloud Computing,Azure,Azure,Fresher
+1347,DevOps,Talsmart,Firewalls,Not Fresher
+1348,Web Development,Google,React,Fresher
+1349,Web Development,Amazon,React,Fresher
+1350,Cybersecurity,Palo Alto Networks,Network Security,Not Fresher
+1351,Data Analytics,Sanguine Global,AWS,Not Fresher
+1352,Embedded Systems,Qualcomm,RTOS,Not Fresher
+1353,DevOps,Mahindra & Mahindra,Ethical Hacking,Not Fresher
+1354,Cloud Computing,Azure,GCP,Fresher
+1355,Cybersecurity,Infosys,SQL,Not Fresher
+1356,Cloud Computing,Google Cloud,Azure,Not Fresher
+1357,Web Development,Google,PyTorch,Fresher
+1358,Data Analytics,PwC,SQL,Not Fresher
+1359,Embedded Systems,Texas Instruments,C,Not Fresher
+1360,DevOps,Marsh McLennan,TensorFlow,Not Fresher
+1361,AI/ML,DeepMind,PyTorch,Fresher
+1362,Cybersecurity,Cisco,Firewalls,Fresher
+1363,Web Development,Microsoft,React,Not Fresher
+1364,Web Development,Google,Angular,Not Fresher
+1365,Embedded Systems,PwC,Docker,Not Fresher
+1366,Embedded Systems,Mahindra & Mahindra,Network Security,Not Fresher
+1367,Web Development,Oracle,SQL,Fresher
+1368,Mobile Development,OnePlus,Kotlin,Fresher
+1369,Cloud Computing,Silicon Labs,Firewalls,Not Fresher
+1370,Game Development,Hexaware,Unity,Not Fresher
+1371,Embedded Systems,Deutsche Bank,GCP,Not Fresher
+1372,Cloud Computing,Blackrock,SQL,Not Fresher
+1373,Web Development,Amazon,React,Fresher
+1374,Data Analytics,EY,Tableau,Not Fresher
+1375,Web Development,Amazon,HTML/CSS,Fresher
+1376,AI/ML,DeepMind,Scikit-learn,Fresher
+1377,Cloud Computing,TCS,HTML/CSS,Not Fresher
+1378,Web Development,Amazon,Angular,Not Fresher
+1379,DevOps,Bosch Ltd.,Angular,Not Fresher
+1380,Embedded Systems,TVS Motors,Docker,Not Fresher
+1381,Mobile Development,Samsung,Flutter,Not Fresher
+1382,Mobile Development,Dell Technologies,SQL,Not Fresher
+1383,DevOps,Red Hat,CI/CD,Not Fresher
+1384,Game Development,Rockstar Games,C#,Fresher
+1385,Data Analytics,OnePlus,Angular,Not Fresher
+1386,DevOps,Dell Technologies,SQL,Not Fresher
+1387,DevOps,Red Hat,Docker,Fresher
+1388,Mobile Development,Red Hat,TensorFlow,Not Fresher
+1389,Embedded Systems,Intel,C,Not Fresher
+1390,Mobile Development,Watchguard,Network Security,Not Fresher
+1391,Cybersecurity,Zscaler,Azure,Not Fresher
+1392,Web Development,Google,HTML/CSS,Not Fresher
+1393,Cybersecurity,Cisco,Firewalls,Not Fresher
+1394,Data Analytics,Rockstar Games,Power BI,Not Fresher
+1395,Embedded Systems,Watchguard,PyTorch,Not Fresher
+1396,Mobile Development,OnePlus,Kotlin,Not Fresher
+1397,AI/ML,Samsung,Azure,Not Fresher
+1398,DevOps,Red Hat,React Native,Fresher
+1399,Cloud Computing,Oracle,Network Security,Not Fresher
+1400,Cybersecurity,HSC,Kubernetes,Not Fresher
+1401,Web Development,Amazon,React,Not Fresher
+1402,Cloud Computing,Talsmart,Firewalls,Not Fresher
+1403,DevOps,GitHub,CI/CD,Not Fresher
+1404,Embedded Systems,EVAge Motors,Unreal Engine,Not Fresher
+1405,Cloud Computing,Seagate,Unreal Engine,Not Fresher
+1406,DevOps,Red Hat,Docker,Not Fresher
+1407,Embedded Systems,Bosch Ltd.,Power BI,Not Fresher
+1408,Cloud Computing,Principal Global,Ethical Hacking,Not Fresher
+1409,Mobile Development,Nokia,HTML/CSS,Not Fresher
+1410,Cybersecurity,Cisco,React,Fresher
+1411,AI/ML,OpenAI,PyTorch,Not Fresher
+1412,Cybersecurity,Palo Alto Networks,Firewalls,Fresher
+1413,Cloud Computing,Cimpress,C#,Not Fresher
+1414,AI/ML,Ubisoft,Kotlin,Not Fresher
+1415,DevOps,Atlassian,CI/CD,Not Fresher
+1416,Game Development,Electronic Arts,Unity,Fresher
+1417,AI/ML,Oracle,RTOS,Not Fresher
+1418,Data Analytics,PwC,Tableau,Not Fresher
+1419,Cybersecurity,Bosch Ltd.,Kubernetes,Not Fresher
+1420,Game Development,Ubisoft,Unreal Engine,Fresher
+1421,Mobile Development,HSC,TensorFlow,Not Fresher
+1422,Game Development,Ubisoft,Unity,Not Fresher
+1423,Embedded Systems,Oracle,TensorFlow,Fresher
+1424,Data Analytics,JP Morgan,Docker,Not Fresher
+1425,Game Development,Electronic Arts,Unreal Engine,Fresher
+1426,Embedded Systems,Texas Instruments,RTOS,Not Fresher
+1427,Mobile Development,Cisco,Flutter,Not Fresher
+1428,Web Development,Amazon,HTML/CSS,Not Fresher
+1429,Mobile Development,Harness,C#,Not Fresher
+1430,Data Analytics,Watchguard,Kotlin,Not Fresher
+1431,Web Development,Secure Meters,Firewalls,Not Fresher
+1432,Cloud Computing,Atlassian,Power BI,Fresher
+1433,DevOps,Philips,RTOS,Not Fresher
+1434,Game Development,Deloitte,CI/CD,Not Fresher
+1435,Embedded Systems,Amazon,Firewalls,Not Fresher
+1436,Cybersecurity,Sanguine Global,HTML/CSS,Not Fresher
+1437,Cybersecurity,Palo Alto Networks,Ethical Hacking,Not Fresher
+1438,Cybersecurity,Cisco,Ethical Hacking,Not Fresher
+1439,DevOps,Atlassian,Kubernetes,Not Fresher
+1440,AI/ML,OpenAI,TensorFlow,Not Fresher
+1441,Cybersecurity,Cisco,Ethical Hacking,Not Fresher
+1442,Game Development,Electronic Arts,Unreal Engine,Not Fresher
+1443,Game Development,ICICI Prudential,Ethical Hacking,Fresher
+1444,Mobile Development,Samsung,Kotlin,Fresher
+1445,Embedded Systems,Texas Instruments,Microcontrollers,Not Fresher
+1446,Cybersecurity,JK Cement,Power BI,Not Fresher
+1447,AI/ML,Secure Meters,React,Not Fresher
+1448,AI/ML,NVIDIA,PyTorch,Not Fresher
+1449,Embedded Systems,NI Systems,C#,Not Fresher
+1450,Mobile Development,Scaler,Angular,Not Fresher
+1451,Mobile Development,Bosch Ltd.,AWS,Not Fresher
+1452,Cybersecurity,Palo Alto Networks,Network Security,Not Fresher
+1453,Cloud Computing,Google Cloud,AWS,Not Fresher
+1454,DevOps,GitHub,Docker,Not Fresher
+1455,DevOps,GitHub,Docker,Not Fresher
+1456,Web Development,Google,HTML/CSS,Fresher
+1457,Cloud Computing,Google Cloud,GCP,Not Fresher
+1458,Embedded Systems,Texas Instruments,C,Not Fresher
+1459,Cloud Computing,Micron Semiconductor,PyTorch,Not Fresher
+1460,Cybersecurity,GitHub,Scikit-learn,Not Fresher
+1461,Game Development,Rockstar Games,Unreal Engine,Not Fresher
+1462,Mobile Development,Deloitte,Unity,Not Fresher
+1463,DevOps,Google,Unreal Engine,Not Fresher
+1464,Mobile Development,Cisco,React,Not Fresher
+1465,Cloud Computing,Scaler,C#,Fresher
+1466,Cybersecurity,Mercer Mettl,Kotlin,Fresher
+1467,DevOps,GitHub,Kubernetes,Fresher
+1468,AI/ML,OpenAI,TensorFlow,Not Fresher
+1469,Cybersecurity,Google,C#,Fresher
+1470,Embedded Systems,Accenture,Unreal Engine,Not Fresher
+1471,Data Analytics,EY,SQL,Not Fresher
+1472,Game Development,Rockstar Games,C#,Not Fresher
+1473,AI/ML,OpenAI,TensorFlow,Not Fresher
+1474,Cloud Computing,Google Cloud,AWS,Fresher
+1475,DevOps,Accolite,Angular,Not Fresher
+1476,Data Analytics,Nokia,React,Not Fresher
+1477,Game Development,Rockstar Games,C#,Not Fresher
+1478,Game Development,Samsung,Scikit-learn,Not Fresher
+1479,Data Analytics,Nokia,Ethical Hacking,Not Fresher
+1480,Data Analytics,Seagate,React Native,Not Fresher
+1481,Game Development,Talsmart,React Native,Not Fresher
+1482,AI/ML,SunLife,GCP,Not Fresher
+1483,Cybersecurity,Qualcomm,TensorFlow,Fresher
+1484,Cloud Computing,Cimpress,CI/CD,Not Fresher
+1485,AI/ML,Infosys,AWS,Not Fresher
+1486,Cloud Computing,Sanguine Global,C,Not Fresher
+1487,Cybersecurity,British Telecom,Kubernetes,Not Fresher
+1488,Cybersecurity,British Telecom,HTML/CSS,Not Fresher
+1489,Web Development,Hexaware,GCP,Not Fresher
+1490,Cloud Computing,Mercer Mettl,RTOS,Fresher
+1491,Mobile Development,TVS Motors,RTOS,Not Fresher
+1492,Cybersecurity,Accolite,Azure,Not Fresher
+1493,Cybersecurity,EY,Microcontrollers,Fresher
+1494,Game Development,Electronic Arts,Unity,Not Fresher
+1495,Game Development,Ubisoft,Unreal Engine,Not Fresher
+1496,Cloud Computing,Harness,PyTorch,Not Fresher
+1497,Cloud Computing,Google Cloud,AWS,Not Fresher
+1498,DevOps,Infosys,GCP,Not Fresher
+1499,Data Analytics,EY,SQL,Not Fresher
+1500,AI/ML,Yamaha,Ethical Hacking,Fresher
+1501,Data Analytics,PwC,Tableau,Not Fresher
+1502,Embedded Systems,Texas Instruments,RTOS,Fresher
+1503,Data Analytics,JK Cement,C#,Not Fresher
+1504,Data Analytics,EY,SQL,Fresher
+1505,Cybersecurity,Hyundai,Kubernetes,Not Fresher
+1506,Cybersecurity,Zscaler,Ethical Hacking,Fresher
+1507,Mobile Development,Yamaha,RTOS,Fresher
+1508,AI/ML,British Telecom,Microcontrollers,Not Fresher
+1509,Web Development,Google Cloud,Tableau,Not Fresher
+1510,Mobile Development,OnePlus,React Native,Fresher
+1511,AI/ML,Seagate,SQL,Not Fresher
+1512,Game Development,Rockstar Games,Unreal Engine,Fresher
+1513,Cybersecurity,Cisco,Firewalls,Not Fresher
+1514,DevOps,JSW,Kubernetes,Not Fresher
+1515,Data Analytics,Silicon Labs,Network Security,Not Fresher
+1516,Game Development,Ubisoft,C#,Fresher
+1517,Game Development,Rockstar Games,Unreal Engine,Not Fresher
+1518,Cloud Computing,Mercer Mettl,SQL,Not Fresher
+1519,AI/ML,OpenAI,TensorFlow,Not Fresher
+1520,Data Analytics,Amazon,Docker,Fresher
+1521,AI/ML,OpenAI,RTOS,Fresher
+1522,Web Development,ICICI Prudential,HTML/CSS,Not Fresher
+1523,Data Analytics,PwC,Tableau,Not Fresher
+1524,Mobile Development,Apple,Kotlin,Fresher
+1525,Cybersecurity,Amazon,Angular,Not Fresher
+1526,Cybersecurity,Sanguine Global,HTML/CSS,Not Fresher
+1527,Data Analytics,Deloitte,Tableau,Not Fresher
+1528,Cloud Computing,Azure,AWS,Not Fresher
+1529,Web Development,Microsoft,React,Fresher
+1530,AI/ML,OpenAI,TensorFlow,Not Fresher
+1531,Game Development,OpenAI,SQL,Not Fresher
+1532,Game Development,Ubisoft,Unity,Not Fresher
+1533,DevOps,Cisco,Angular,Not Fresher
+1534,AI/ML,Batt:RE,React Native,Not Fresher
+1535,Data Analytics,Deutsche Bank,C#,Not Fresher
+1536,Web Development,Mercer Mettl,Scikit-learn,Not Fresher
+1537,Cybersecurity,Juniper Networks,C#,Not Fresher
+1538,Web Development,EVAge Motors,Microcontrollers,Not Fresher
+1539,AI/ML,NI Systems,C,Fresher
+1540,Web Development,Deutsche Bank,Angular,Not Fresher
+1541,Mobile Development,Apple,Kotlin,Not Fresher
+1542,Cloud Computing,Google Cloud,GCP,Not Fresher
+1543,Game Development,Oracle,Unity,Not Fresher
+1544,Mobile Development,Apple,Kubernetes,Not Fresher
+1545,DevOps,Sanguine Global,GCP,Not Fresher
+1546,Cloud Computing,Azure,Azure,Not Fresher
+1547,AI/ML,Principal Global,Ethical Hacking,Not Fresher
+1548,Game Development,Juniper Networks,Azure,Not Fresher
+1549,AI/ML,DeepMind,PyTorch,Fresher
+1550,Web Development,Statcon Electronics,CI/CD,Not Fresher
+1551,Game Development,Synopsys,Flutter,Not Fresher
+1552,Cybersecurity,Batt:RE,PyTorch,Not Fresher
+1553,Web Development,Amazon,HTML/CSS,Not Fresher
+1554,DevOps,Red Hat,CI/CD,Not Fresher
+1555,Mobile Development,JSW,Network Security,Not Fresher
+1556,Cloud Computing,Google Cloud,AWS,Not Fresher
+1557,Mobile Development,OnePlus,Microcontrollers,Not Fresher
+1558,Data Analytics,Ubisoft,React Native,Not Fresher
+1559,AI/ML,AWS,Unity,Fresher
+1560,Embedded Systems,HashedIn,React,Fresher
+1561,Mobile Development,Seagate,Microcontrollers,Not Fresher
+1562,Cybersecurity,Palo Alto Networks,Network Security,Not Fresher
+1563,Web Development,Amazon,Angular,Not Fresher
+1564,Mobile Development,Apple,Flutter,Fresher
+1565,Mobile Development,Talsmart,TensorFlow,Fresher
+1566,AI/ML,Micron Semiconductor,PyTorch,Not Fresher
+1567,DevOps,Red Hat,CI/CD,Not Fresher
+1568,AI/ML,NVIDIA,TensorFlow,Fresher
+1569,Cloud Computing,Google Cloud,GCP,Not Fresher
+1570,Embedded Systems,Qualcomm,RTOS,Not Fresher
+1571,Cybersecurity,Cisco,Ethical Hacking,Not Fresher
+1572,Data Analytics,TVS Motors,C,Fresher
+1573,Web Development,AWS,Ethical Hacking,Not Fresher
+1574,Mobile Development,Seagate,Network Security,Fresher
+1575,Cybersecurity,Red Hat,HTML/CSS,Not Fresher
+1576,Cybersecurity,Tata Consulting Engineers,GCP,Not Fresher
+1577,Cybersecurity,SAP Lab,SQL,Not Fresher
+1578,Mobile Development,Samsung,Flutter,Not Fresher
+1579,Embedded Systems,Batt:RE,React Native,Not Fresher
+1580,Data Analytics,Scaler,Tableau,Not Fresher
+1581,AI/ML,NVIDIA,TensorFlow,Not Fresher
+1582,Cloud Computing,Synopsys,RTOS,Fresher
+1583,Game Development,Rockstar Games,Unreal Engine,Not Fresher
+1584,Cloud Computing,Arvind Fashion,Network Security,Fresher
+1585,Cybersecurity,Arvind Fashion,Network Security,Not Fresher
+1586,Data Analytics,TVS Motors,Docker,Not Fresher
+1587,Cybersecurity,Juniper Networks,Power BI,Not Fresher
+1588,Game Development,Ubisoft,C#,Not Fresher
+1589,Web Development,Microsoft,Angular,Not Fresher
+1590,Game Development,Silicon Labs,TensorFlow,Fresher
+1591,Game Development,Domato Book Co.,Power BI,Fresher
+1592,Embedded Systems,rtCamp,GCP,Not Fresher
+1593,Mobile Development,Watchguard,RTOS,Fresher
+1594,Cybersecurity,Zscaler,Firewalls,Fresher
+1595,Data Analytics,Statcon Electronics,Scikit-learn,Not Fresher
+1596,Web Development,Google,Unreal Engine,Not Fresher
+1597,Cloud Computing,OpenAI,Azure,Not Fresher
+1598,Mobile Development,Apple,Kotlin,Not Fresher
+1599,Game Development,British Telecom,GCP,Not Fresher
+1600,Mobile Development,Statcon Electronics,TensorFlow,Not Fresher
+1601,Cybersecurity,OnePlus,Unity,Not Fresher
+1602,Mobile Development,Tech Mahindra,AWS,Fresher
+1603,Embedded Systems,Mercer Mettl,GCP,Fresher
+1604,Mobile Development,Sabre,Microcontrollers,Not Fresher
+1605,Embedded Systems,Persistent,C,Not Fresher
+1606,Web Development,Cipla,TensorFlow,Fresher
+1607,Cloud Computing,Zscaler,TensorFlow,Fresher
+1608,Game Development,Secure Meters,React,Fresher
+1609,Cloud Computing,Rockstar Games,Azure,Not Fresher
+1610,AI/ML,Batt:RE,Unreal Engine,Fresher
+1611,Cloud Computing,DeepMind,AWS,Not Fresher
+1612,Cybersecurity,Talsmart,Kubernetes,Not Fresher
+1613,Embedded Systems,Cipla,Scikit-learn,Fresher
+1614,Game Development,Zscaler,Network Security,Fresher
+1615,Embedded Systems,Synopsys,React,Not Fresher
+1616,AI/ML,Electronic Arts,Tableau,Fresher
+1617,Data Analytics,Synopsys,React,Not Fresher
+1618,AI/ML,rtCamp,Unreal Engine,Not Fresher
+1619,AI/ML,Cimpress,C,Not Fresher
+1620,AI/ML,Red Hat,SQL,Fresher
+1621,Web Development,Micron Semiconductor,CI/CD,Fresher
+1622,Game Development,HSC,AWS,Fresher
+1623,Game Development,Deloitte,Firewalls,Fresher
+1624,DevOps,Harness,Azure,Fresher
+1625,Data Analytics,Synopsys,Microcontrollers,Fresher
+1626,Embedded Systems,Atlassian,CI/CD,Not Fresher
+1627,Mobile Development,NI Systems,Flutter,Not Fresher
+1628,AI/ML,EVAge Motors,C#,Not Fresher
+1629,Cybersecurity,Dell Technologies,TensorFlow,Not Fresher
+1630,AI/ML,Palo Alto Networks,Kotlin,Fresher
+1631,DevOps,Cimpress,TensorFlow,Fresher
+1632,Mobile Development,Marsh McLennan,Kotlin,Not Fresher
+1633,Cybersecurity,JSW,Network Security,Not Fresher
+1634,Game Development,PwC,Microcontrollers,Not Fresher
+1635,Data Analytics,NVIDIA,Flutter,Not Fresher
+1636,Cybersecurity,Silicon Labs,Docker,Fresher
+1637,Web Development,Scaler,Kotlin,Not Fresher
+1638,DevOps,Celebal Technologies,Kubernetes,Not Fresher
+1639,Embedded Systems,DeepMind,Angular,Fresher
+1640,DevOps,HSC,HTML/CSS,Fresher
+1641,Cybersecurity,Statcon Electronics,React,Not Fresher
+1642,Cybersecurity,Deloitte,Flutter,Not Fresher
+1643,Cloud Computing,Deloitte,Microcontrollers,Fresher
+1644,Mobile Development,Secure Meters,Tableau,Fresher
+1645,Web Development,SAP Scholar,Kubernetes,Fresher
+1646,Cybersecurity,Tata Consulting Engineers,PyTorch,Not Fresher
+1647,Mobile Development,Bosch Ltd.,GCP,Not Fresher
+1648,DevOps,GitHub,PyTorch,Not Fresher
+1649,AI/ML,Batt:RE,Microcontrollers,Not Fresher
+1650,Game Development,Celebal Technologies,Kotlin,Not Fresher
+1651,Game Development,Google,Kubernetes,Not Fresher
+1652,Mobile Development,DeepMind,Microcontrollers,Fresher
+1653,AI/ML,Seagate,Unity,Fresher
+1654,Cybersecurity,Mahindra & Mahindra,Azure,Fresher
+1655,Cloud Computing,Principal Global,Unreal Engine,Fresher
+1656,AI/ML,Secure Meters,Kotlin,Not Fresher
+1657,Cloud Computing,Mahindra & Mahindra,SQL,Fresher
+1658,Cybersecurity,OpenAI,C#,Not Fresher
+1659,Data Analytics,Blackrock,React Native,Fresher
+1660,Web Development,DeepMind,Angular,Not Fresher
+1661,Cloud Computing,JP Morgan,Scikit-learn,Fresher
+1662,Cybersecurity,AWS,HTML/CSS,Not Fresher
+1663,Data Analytics,NI Systems,TensorFlow,Not Fresher
+1664,Mobile Development,Hexaware,CI/CD,Fresher
+1665,Mobile Development,Domato Book Co.,Unity,Fresher
+1666,DevOps,Harness,React,Fresher
+1667,Cloud Computing,EVAge Motors,CI/CD,Not Fresher
+1668,AI/ML,JK Cement,RTOS,Not Fresher
+1669,Game Development,AWS,Azure,Fresher
+1670,Cybersecurity,NVIDIA,Tableau,Fresher
+1671,Web Development,Nokia,Microcontrollers,Not Fresher
+1672,AI/ML,Talsmart,Docker,Fresher
+1673,Web Development,Marsh McLennan,Microcontrollers,Fresher
+1674,Cybersecurity,Cipla,Microcontrollers,Not Fresher
+1675,AI/ML,DeepMind,React,Not Fresher
+1676,Web Development,Nokia,Angular,Fresher
+1677,AI/ML,Secure Meters,Tableau,Fresher
+1678,Mobile Development,Statcon Electronics,Unity,Not Fresher
+1679,Embedded Systems,Amazon,PyTorch,Not Fresher
+1680,Cybersecurity,Cisco,PyTorch,Fresher
+1681,Cybersecurity,Red Hat,Flutter,Fresher
+1682,AI/ML,Accolite,Firewalls,Fresher
+1683,Mobile Development,Hexaware,Network Security,Not Fresher
+1684,DevOps,Domato Book Co.,Angular,Fresher
+1685,Cybersecurity,Mercer Mettl,Ethical Hacking,Not Fresher
+1686,Data Analytics,Palo Alto Networks,C#,Fresher
+1687,Game Development,TCS,GCP,Fresher
+1688,Web Development,HashedIn,Azure,Not Fresher
+1689,Embedded Systems,Talsmart,Network Security,Fresher
+1690,Game Development,Atlassian,HTML/CSS,Not Fresher
+1691,Web Development,Nokia,GCP,Not Fresher
+1692,Game Development,DeepMind,HTML/CSS,Fresher
+1693,Cloud Computing,TCS,Tableau,Fresher
+1694,Mobile Development,DeepMind,Tableau,Fresher
+1695,Cloud Computing,Mahindra Comviva,Flutter,Not Fresher
+1696,Embedded Systems,Genpact,Microcontrollers,Not Fresher
+1697,Web Development,PwC,C#,Not Fresher
+1698,AI/ML,JK Cement,SQL,Not Fresher
+1699,DevOps,Microsoft,Kubernetes,Fresher
+1700,Data Analytics,OnePlus,AWS,Not Fresher
+1701,AI/ML,Persistent,Unity,Fresher
+1702,Game Development,Silicon Labs,Docker,Not Fresher
+1703,Cloud Computing,Celebal Technologies,Firewalls,Not Fresher
+1704,Data Analytics,Harness,React Native,Not Fresher
+1705,Web Development,KPMG,Flutter,Not Fresher
+1706,Data Analytics,OpenAI,Unreal Engine,Not Fresher
+1707,Cybersecurity,Sanguine Global,SQL,Not Fresher
+1708,Game Development,Navikenz Inc,Azure,Fresher
+1709,AI/ML,Infosys,Ethical Hacking,Fresher
+1710,Web Development,NVIDIA,Microcontrollers,Fresher
+1711,DevOps,JSW,Firewalls,Not Fresher
+1712,Game Development,TCS,C,Fresher
+1713,Cybersecurity,SAP Lab,React,Fresher
+1714,Cloud Computing,TVS Motors,AWS,Not Fresher
+1715,Cloud Computing,Palo Alto Networks,SQL,Fresher
+1716,AI/ML,DeepMind,Firewalls,Not Fresher
+1717,Cybersecurity,TCS,Kotlin,Not Fresher
+1718,Data Analytics,Palo Alto Networks,C,Not Fresher
+1719,Mobile Development,JK Cement,Firewalls,Not Fresher
+1720,Mobile Development,Ubisoft,Unity,Not Fresher
+1721,Data Analytics,Scaler,React Native,Not Fresher
+1722,DevOps,GitHub,Power BI,Not Fresher
+1723,Game Development,Ubisoft,Network Security,Fresher
+1724,AI/ML,TCS,Network Security,Not Fresher
+1725,Cybersecurity,GitHub,React,Fresher
+1726,DevOps,PwC,Network Security,Not Fresher
+1727,AI/ML,Mahindra & Mahindra,Azure,Fresher
+1728,AI/ML,Blackrock,C#,Not Fresher
+1729,Mobile Development,Blackrock,AWS,Fresher
+1730,Game Development,SAP Scholar,Tableau,Not Fresher
+1731,Mobile Development,Mercer Mettl,Tableau,Not Fresher
+1732,Mobile Development,JP Morgan,Ethical Hacking,Fresher
+1733,Cybersecurity,Domato Book Co.,Angular,Not Fresher
+1734,Web Development,Micron Semiconductor,HTML/CSS,Fresher
+1735,Embedded Systems,JP Morgan,C#,Fresher
+1736,DevOps,Accolite,PyTorch,Not Fresher
+1737,Web Development,SAP Scholar,C,Fresher
+1738,Embedded Systems,Azure,Kotlin,Not Fresher
+1739,Game Development,ICICI Prudential,Microcontrollers,Fresher
+1740,Web Development,Scaler,Kotlin,Fresher
+1741,Cloud Computing,Harness,SQL,Not Fresher
+1742,Cybersecurity,Cimpress,CI/CD,Not Fresher
+1743,DevOps,Ubisoft,Docker,Fresher
+1744,AI/ML,Tech Mahindra,Ethical Hacking,Not Fresher
+1745,Embedded Systems,Talsmart,C,Not Fresher
+1746,Game Development,OpenAI,Azure,Fresher
+1747,Data Analytics,JK Cement,Azure,Fresher
+1748,Cybersecurity,OpenAI,Unreal Engine,Not Fresher
+1749,Web Development,Red Hat,Microcontrollers,Not Fresher
+1750,Game Development,Watchguard,Microcontrollers,Fresher
+1751,Data Analytics,Scaler,Unity,Fresher
+1752,AI/ML,Blackrock,Flutter,Fresher
+1753,AI/ML,NI Systems,C,Fresher
+1754,Cybersecurity,TVS Motors,Unreal Engine,Fresher
+1755,Cybersecurity,Statcon Electronics,Flutter,Not Fresher
+1756,Cybersecurity,Hexaware,Kotlin,Fresher
+1757,AI/ML,Blackrock,Azure,Not Fresher
+1758,Data Analytics,Talsmart,Firewalls,Fresher
+1759,Cloud Computing,Genpact,Flutter,Not Fresher
+1760,AI/ML,SAP Scholar,Microcontrollers,Not Fresher
+1761,Data Analytics,Electronic Arts,TensorFlow,Not Fresher
+1762,DevOps,Blackrock,TensorFlow,Fresher
+1763,Cloud Computing,Electronic Arts,Microcontrollers,Fresher
+1764,Cloud Computing,Atlassian,HTML/CSS,Fresher
+1765,Cloud Computing,British Telecom,PyTorch,Not Fresher
+1766,Data Analytics,OnePlus,AWS,Not Fresher
+1767,Game Development,Bosch Ltd.,Unreal Engine,Not Fresher
+1768,Web Development,Micron Semiconductor,AWS,Fresher
+1769,Mobile Development,Infosys,TensorFlow,Not Fresher
+1770,Game Development,Schneider,C,Fresher
+1771,Embedded Systems,Rockstar Games,Scikit-learn,Not Fresher
+1772,Embedded Systems,JP Morgan,Docker,Fresher
+1773,Web Development,Persistent,AWS,Not Fresher
+1774,Data Analytics,Mahindra & Mahindra,Flutter,Fresher
+1775,DevOps,Dell Technologies,Unreal Engine,Not Fresher
+1776,Web Development,Mahindra Comviva,Kotlin,Fresher
+1777,Embedded Systems,Synopsys,C#,Fresher
+1778,Embedded Systems,PwC,AWS,Fresher
+1779,Web Development,Blackrock,Tableau,Not Fresher
+1780,DevOps,Google,CI/CD,Fresher
+1781,Data Analytics,Accenture,React,Fresher
+1782,Cybersecurity,PwC,AWS,Not Fresher
+1783,DevOps,Mahindra Comviva,Docker,Not Fresher
+1784,AI/ML,Azure,React,Fresher
+1785,Embedded Systems,HashedIn,Angular,Fresher
+1786,Web Development,Atlassian,Kotlin,Fresher
+1787,Embedded Systems,KPMG,Kotlin,Fresher
+1788,DevOps,Statcon Electronics,Firewalls,Not Fresher
+1789,Cybersecurity,Navikenz Inc,Unity,Not Fresher
+1790,Web Development,Sabre,Azure,Fresher
+1791,Cybersecurity,Tata Consulting Engineers,Network Security,Fresher
+1792,Data Analytics,Qualcomm,PyTorch,Not Fresher
+1793,DevOps,Red Hat,SQL,Fresher
+1794,Cybersecurity,Seagate,AWS,Not Fresher
+1795,Cybersecurity,GitHub,React,Not Fresher
+1796,AI/ML,NVIDIA,AWS,Not Fresher
+1797,Game Development,Mercer Mettl,Docker,Fresher
+1798,Embedded Systems,Google Cloud,Kubernetes,Fresher
+1799,Embedded Systems,Silicon Labs,Ethical Hacking,Fresher
+1800,Cloud Computing,NI Systems,Kotlin,Fresher
+1801,Cybersecurity,SAP Scholar,Docker,Not Fresher
+1802,Cloud Computing,Maverick Quantum,Power BI,Not Fresher
+1803,Mobile Development,KPMG,TensorFlow,Fresher
+1804,Web Development,Watchguard,C,Not Fresher
+1805,AI/ML,Oracle,Firewalls,Not Fresher
+1806,Data Analytics,Texas Instruments,Docker,Not Fresher
+1807,DevOps,Genpact,Tableau,Fresher
+1808,Game Development,Hyundai,Network Security,Not Fresher
+1809,Web Development,Ubisoft,Kubernetes,Not Fresher
+1810,Cloud Computing,Cipla,RTOS,Not Fresher
+1811,Mobile Development,Electronic Arts,Tableau,Fresher
+1812,Web Development,Zscaler,Azure,Not Fresher
+1813,Web Development,Juniper Networks,Firewalls,Fresher
+1814,Embedded Systems,Domato Book Co.,Ethical Hacking,Not Fresher
+1815,Mobile Development,NVIDIA,CI/CD,Not Fresher
+1816,Game Development,DeepMind,Unreal Engine,Fresher
+1817,Game Development,Mercer Mettl,HTML/CSS,Fresher
+1818,Mobile Development,Hyundai,Unreal Engine,Not Fresher
+1819,Game Development,Sabre,C,Not Fresher
+1820,Embedded Systems,Genpact,GCP,Not Fresher
+1821,Data Analytics,OnePlus,Ethical Hacking,Not Fresher
+1822,Cybersecurity,TVS Motors,React Native,Fresher
+1823,Mobile Development,Deutsche Bank,RTOS,Not Fresher
+1824,Web Development,Hexaware,Unreal Engine,Fresher
+1825,Web Development,British Telecom,Docker,Not Fresher
+1826,Embedded Systems,Atlassian,Angular,Fresher
+1827,AI/ML,Celebal Technologies,Angular,Fresher
+1828,Game Development,Persistent,Docker,Not Fresher
+1829,Cybersecurity,Deloitte,SQL,Fresher
+1830,DevOps,Domato Book Co.,TensorFlow,Not Fresher
+1831,Game Development,Ubisoft,C,Not Fresher
+1832,Mobile Development,JK Cement,C,Fresher
+1833,Embedded Systems,Google Cloud,Kubernetes,Not Fresher
+1834,Cloud Computing,Cipla,Microcontrollers,Fresher
+1835,Cybersecurity,EVAge Motors,Kubernetes,Not Fresher
+1836,Cybersecurity,Nokia,Angular,Fresher
+1837,Cybersecurity,Oracle,C#,Not Fresher
+1838,DevOps,Micron Semiconductor,TensorFlow,Not Fresher
+1839,Mobile Development,Sabre,Angular,Not Fresher
+1840,AI/ML,Batt:RE,PyTorch,Not Fresher
+1841,Web Development,PwC,Flutter,Not Fresher
+1842,Data Analytics,SunLife,SQL,Fresher
+1843,Game Development,Arvind Fashion,React,Fresher
+1844,DevOps,TVS Motors,Power BI,Fresher
+1845,AI/ML,Persistent,Ethical Hacking,Not Fresher
+1846,Cloud Computing,Hexaware,Network Security,Not Fresher
+1847,Web Development,NI Systems,AWS,Fresher
+1848,Embedded Systems,Principal Global,Azure,Not Fresher
+1849,Game Development,TCS,GCP,Not Fresher
+1850,DevOps,NI Systems,Flutter,Not Fresher
+1851,Cybersecurity,Mahindra & Mahindra,Network Security,Fresher
+1852,Game Development,Scaler,Kotlin,Fresher
+1853,DevOps,Accolite,React,Not Fresher
+1854,Mobile Development,Bosch Ltd.,Azure,Not Fresher
+1855,Mobile Development,Domato Book Co.,Ethical Hacking,Not Fresher
+1856,Game Development,Domato Book Co.,Kubernetes,Not Fresher
+1857,Cybersecurity,Yamaha,Kotlin,Not Fresher
+1858,Cloud Computing,EY,Scikit-learn,Fresher
+1859,DevOps,Oracle,Angular,Fresher
+1860,Data Analytics,British Telecom,Flutter,Not Fresher
+1861,AI/ML,Scaler,Flutter,Fresher
+1862,DevOps,rtCamp,TensorFlow,Fresher
+1863,Web Development,Ubisoft,Angular,Fresher
+1864,Web Development,rtCamp,AWS,Not Fresher
+1865,AI/ML,Atlassian,Network Security,Fresher
+1866,Data Analytics,Silicon Labs,PyTorch,Not Fresher
+1867,Cloud Computing,DeepMind,C,Fresher
+1868,Embedded Systems,Cimpress,Unreal Engine,Not Fresher
+1869,Cloud Computing,Infosys,Microcontrollers,Fresher
+1870,Embedded Systems,Amazon,Ethical Hacking,Fresher
+1871,Data Analytics,Deloitte,Kotlin,Not Fresher
+1872,DevOps,Scaler,Tableau,Not Fresher
+1873,Game Development,Ubisoft,Flutter,Not Fresher
+1874,AI/ML,TCS,React Native,Fresher
+1875,Embedded Systems,Dell Technologies,Microcontrollers,Not Fresher
+1876,DevOps,Navikenz Inc,SQL,Fresher
+1877,Cybersecurity,Micron Semiconductor,Ethical Hacking,Not Fresher
+1878,DevOps,Google,React Native,Not Fresher
+1879,Game Development,Google Cloud,GCP,Not Fresher
+1880,DevOps,rtCamp,Azure,Fresher
+1881,Mobile Development,GitHub,PyTorch,Fresher
+1882,Game Development,Juniper Networks,RTOS,Fresher
+1883,Web Development,Ubisoft,PyTorch,Not Fresher
+1884,Cybersecurity,Oracle,Angular,Fresher
+1885,Cybersecurity,Oracle,Kubernetes,Not Fresher
+1886,Mobile Development,Nokia,HTML/CSS,Not Fresher
+1887,Embedded Systems,PwC,Microcontrollers,Fresher
+1888,Cloud Computing,Accenture,Microcontrollers,Fresher
+1889,Mobile Development,Silicon Labs,Unity,Not Fresher
+1890,Embedded Systems,Silicon Labs,SQL,Fresher
+1891,Mobile Development,Sanguine Global,Firewalls,Not Fresher
+1892,DevOps,Micron Semiconductor,Unreal Engine,Fresher
+1893,Embedded Systems,Genpact,Unreal Engine,Fresher
+1894,Data Analytics,EVAge Motors,Kubernetes,Not Fresher
+1895,Data Analytics,Intel,Network Security,Not Fresher
+1896,Data Analytics,EVAge Motors,CI/CD,Fresher
+1897,Web Development,ICICI Prudential,Power BI,Not Fresher
+1898,AI/ML,Dell Technologies,Azure,Not Fresher
+1899,Web Development,Principal Global,Firewalls,Not Fresher
+1900,Mobile Development,Tata Consulting Engineers,Microcontrollers,Not Fresher
+1901,DevOps,Blackrock,Flutter,Not Fresher
+1902,Cybersecurity,Sabre,Flutter,Fresher
+1903,Game Development,Navikenz Inc,C,Not Fresher
+1904,AI/ML,JP Morgan,RTOS,Not Fresher
+1905,Web Development,Scaler,Azure,Fresher
+1906,Cloud Computing,Mahindra & Mahindra,Microcontrollers,Fresher
+1907,Data Analytics,OpenAI,React Native,Fresher
+1908,Web Development,Oracle,Ethical Hacking,Not Fresher
+1909,Data Analytics,HashedIn,GCP,Fresher
+1910,Cybersecurity,Nokia,CI/CD,Not Fresher
+1911,Mobile Development,Google,Scikit-learn,Not Fresher
+1912,Game Development,rtCamp,Kubernetes,Not Fresher
+1913,Data Analytics,HSC,HTML/CSS,Not Fresher
+1914,Embedded Systems,JP Morgan,Docker,Fresher
+1915,Data Analytics,Philips,PyTorch,Not Fresher
+1916,Cybersecurity,Talsmart,Unity,Fresher
+1917,Cybersecurity,Deutsche Bank,C,Not Fresher
+1918,Data Analytics,Maverick Quantum,PyTorch,Not Fresher
+1919,DevOps,Intel,HTML/CSS,Fresher
+1920,Cloud Computing,Azure,React,Fresher
+1921,Embedded Systems,Microsoft,PyTorch,Not Fresher
+1922,Cloud Computing,Genpact,Ethical Hacking,Fresher
+1923,Data Analytics,AWS,Microcontrollers,Not Fresher
+1924,Web Development,JP Morgan,Microcontrollers,Not Fresher
+1925,Embedded Systems,TCS,AWS,Fresher
+1926,Cloud Computing,OpenAI,Network Security,Not Fresher
+1927,Mobile Development,Schneider,Network Security,Not Fresher
+1928,Web Development,Seagate,React Native,Not Fresher
+1929,Cybersecurity,Tech Mahindra,C,Fresher
+1930,Mobile Development,Domato Book Co.,Azure,Not Fresher
+1931,Mobile Development,Cisco,Ethical Hacking,Not Fresher
+1932,AI/ML,Nokia,Azure,Not Fresher
+1933,Cloud Computing,Schneider,CI/CD,Not Fresher
+1934,Embedded Systems,Apple,Unity,Fresher
+1935,Web Development,Seagate,Kubernetes,Fresher
+1936,Mobile Development,Mercer Mettl,Kotlin,Not Fresher
+1937,Web Development,Juniper Networks,RTOS,Fresher
+1938,Web Development,OnePlus,C,Not Fresher
+1939,Cybersecurity,Apple,Kotlin,Fresher
+1940,Embedded Systems,Sabre,Flutter,Fresher
+1941,Embedded Systems,Sabre,HTML/CSS,Not Fresher
+1942,Game Development,Amazon,AWS,Not Fresher
+1943,Game Development,Deutsche Bank,GCP,Not Fresher
+1944,Cybersecurity,Electronic Arts,Docker,Not Fresher
+1945,Web Development,Silicon Labs,Firewalls,Fresher
+1946,Web Development,Genpact,TensorFlow,Fresher
+1947,Cloud Computing,JK Cement,Firewalls,Not Fresher
+1948,DevOps,Nokia,Tableau,Not Fresher
+1949,Mobile Development,Dell Technologies,Kotlin,Not Fresher
+1950,Mobile Development,Bosch Ltd.,React,Not Fresher
+1951,DevOps,Cisco,React Native,Not Fresher
+1952,Game Development,Tech Mahindra,C#,Fresher
+1953,Mobile Development,Marsh McLennan,Flutter,Fresher
+1954,Cloud Computing,Red Hat,Flutter,Fresher
+1955,Cloud Computing,ICICI Prudential,Kubernetes,Not Fresher
+1956,Mobile Development,Dell Technologies,Tableau,Not Fresher
+1957,AI/ML,Electronic Arts,Azure,Fresher
+1958,AI/ML,rtCamp,HTML/CSS,Not Fresher
+1959,Data Analytics,Navikenz Inc,Tableau,Not Fresher
+1960,Cloud Computing,Oracle,Azure,Not Fresher
+1961,Mobile Development,EY,Power BI,Fresher
+1962,Cloud Computing,Micron Semiconductor,HTML/CSS,Not Fresher
+1963,Game Development,Domato Book Co.,Network Security,Fresher
+1964,Data Analytics,KPMG,Firewalls,Not Fresher
+1965,Data Analytics,Microsoft,Firewalls,Fresher
+1966,Cybersecurity,Sabre,C#,Fresher
+1967,Data Analytics,Hyundai,Tableau,Not Fresher
+1968,Data Analytics,Hyundai,Power BI,Fresher
+1969,Embedded Systems,Mahindra Comviva,Network Security,Not Fresher
+1970,Cybersecurity,Blackrock,Unity,Not Fresher
+1971,AI/ML,Intel,React,Fresher
+1972,Cloud Computing,Juniper Networks,Microcontrollers,Not Fresher
+1973,DevOps,Hexaware,Kubernetes,Fresher
+1974,Embedded Systems,Scaler,SQL,Fresher
+1975,Embedded Systems,OpenAI,Azure,Not Fresher
+1976,Mobile Development,Secure Meters,TensorFlow,Not Fresher
+1977,Embedded Systems,ICICI Prudential,C,Not Fresher
+1978,Game Development,Texas Instruments,Network Security,Not Fresher
+1979,DevOps,Persistent,GCP,Not Fresher
+1980,AI/ML,Statcon Electronics,Unreal Engine,Fresher
+1981,Embedded Systems,KPMG,GCP,Not Fresher
+1982,Cybersecurity,Celebal Technologies,AWS,Fresher
+1983,Game Development,Seagate,Azure,Not Fresher
+1984,DevOps,Hyundai,Unreal Engine,Fresher
+1985,AI/ML,Mercer Mettl,AWS,Not Fresher
+1986,DevOps,Cimpress,Angular,Not Fresher
+1987,DevOps,Talsmart,Azure,Not Fresher
+1988,Embedded Systems,Arvind Fashion,Ethical Hacking,Fresher
+1989,Cybersecurity,Texas Instruments,C#,Not Fresher
+1990,Cybersecurity,OpenAI,Scikit-learn,Not Fresher
+1991,Cybersecurity,Mahindra & Mahindra,C,Fresher
+1992,Mobile Development,TVS Motors,Flutter,Not Fresher
+1993,Embedded Systems,Mahindra Comviva,React,Fresher
+1994,Data Analytics,Accenture,Docker,Fresher
+1995,AI/ML,Palo Alto Networks,Angular,Not Fresher
+1996,Embedded Systems,NI Systems,C#,Not Fresher
+1997,DevOps,KPMG,React,Fresher
+1998,Game Development,Tata Consulting Engineers,Angular,Not Fresher
+1999,Cybersecurity,Blackrock,Unity,Not Fresher
+2000,Cybersecurity,Navikenz Inc,Kotlin,Fresher
+2001,Game Development,Accolite,Network Security,Not Fresher
+2002,Data Analytics,ICICI Prudential,SQL,Fresher
+2003,Game Development,Nokia,Kotlin,Fresher
+2004,Cybersecurity,NI Systems,Flutter,Not Fresher
+2005,DevOps,Scaler,Azure,Not Fresher
+2006,DevOps,Mahindra Comviva,C,Not Fresher
+2007,Game Development,Silicon Labs,Network Security,Fresher
+2008,DevOps,Amazon,Unreal Engine,Not Fresher
+2009,AI/ML,Hexaware,Kotlin,Not Fresher
+2010,Cybersecurity,Secure Meters,Flutter,Not Fresher
+2011,Mobile Development,Blackrock,RTOS,Not Fresher
+2012,AI/ML,Ubisoft,Docker,Not Fresher
+2013,Cybersecurity,Intel,CI/CD,Fresher
+2014,DevOps,Arvind Fashion,Kotlin,Fresher
+2015,Game Development,Genpact,Tableau,Fresher
+2016,Cloud Computing,JSW,Network Security,Not Fresher
+2017,DevOps,Accolite,Firewalls,Fresher
+2018,Data Analytics,Zscaler,PyTorch,Fresher
+2019,AI/ML,Nokia,AWS,Not Fresher
+2020,Web Development,Accenture,Unreal Engine,Fresher
+2021,AI/ML,NI Systems,PyTorch,Fresher
+2022,Cybersecurity,Micron Semiconductor,CI/CD,Not Fresher
+2023,Data Analytics,Google Cloud,React,Fresher
+2024,Cybersecurity,Mahindra Comviva,Kotlin,Not Fresher
+2025,Web Development,Hexaware,Unity,Not Fresher
+2026,Web Development,Samsung,Kotlin,Not Fresher
+2027,Cybersecurity,Azure,React Native,Not Fresher
+2028,Cybersecurity,Juniper Networks,RTOS,Not Fresher
+2029,Mobile Development,AWS,C#,Fresher
+2030,Game Development,Infosys,Azure,Fresher
+2031,Embedded Systems,Arvind Fashion,Power BI,Fresher
+2032,AI/ML,Cisco,Kotlin,Fresher
+2033,Game Development,Samsung,RTOS,Fresher
+2034,Cloud Computing,Samsung,Azure,Fresher
+2035,Cybersecurity,Juniper Networks,AWS,Not Fresher
+2036,Game Development,Zscaler,AWS,Not Fresher
+2037,Mobile Development,SunLife,GCP,Not Fresher
+2038,Cloud Computing,Marsh McLennan,HTML/CSS,Fresher
+2039,DevOps,Azure,Ethical Hacking,Fresher
+2040,Game Development,Scaler,Tableau,Fresher
+2041,Cloud Computing,SAP Scholar,Tableau,Fresher
+2042,Cybersecurity,Scaler,Firewalls,Fresher
+2043,Web Development,Azure,Firewalls,Not Fresher
+2044,Embedded Systems,TCS,PyTorch,Fresher
+2045,Data Analytics,PwC,Kotlin,Fresher
+2046,Web Development,DeepMind,Azure,Not Fresher
+2047,Cloud Computing,ICICI Prudential,CI/CD,Not Fresher
+2048,AI/ML,OnePlus,Microcontrollers,Fresher
+2049,Cybersecurity,Tech Mahindra,HTML/CSS,Fresher
+2050,Game Development,AWS,C,Fresher
+2051,Web Development,Oracle,React,Fresher
+2052,Game Development,Silicon Labs,CI/CD,Fresher
+2053,Web Development,Marsh McLennan,C#,Not Fresher
+2054,Mobile Development,Bosch Ltd.,Firewalls,Fresher
+2055,Cybersecurity,Ubisoft,React Native,Fresher
+2056,Data Analytics,Bosch Ltd.,CI/CD,Fresher
+2057,Web Development,Scaler,SQL,Not Fresher
+2058,DevOps,Deutsche Bank,PyTorch,Not Fresher
+2059,Mobile Development,SAP Lab,Angular,Not Fresher
+2060,Embedded Systems,Seagate,RTOS,Fresher
+2061,DevOps,TCS,C#,Not Fresher
+2062,Cybersecurity,NI Systems,Kotlin,Fresher
+2063,Data Analytics,Dell Technologies,SQL,Fresher
+2064,Web Development,Qualcomm,Angular,Not Fresher
+2065,Data Analytics,Juniper Networks,PyTorch,Not Fresher
+2066,Cloud Computing,HSC,React Native,Not Fresher
+2067,Embedded Systems,Deutsche Bank,Azure,Not Fresher
+2068,Mobile Development,SAP Scholar,React Native,Fresher
+2069,Embedded Systems,Maverick Quantum,Power BI,Fresher
+2070,Cloud Computing,Micron Semiconductor,CI/CD,Fresher
+2071,Mobile Development,Mercer Mettl,Ethical Hacking,Fresher
+2072,AI/ML,Batt:RE,Tableau,Fresher
+2073,Cybersecurity,Bosch Ltd.,C,Fresher
+2074,DevOps,Palo Alto Networks,RTOS,Fresher
+2075,Cloud Computing,Blackrock,Network Security,Fresher
+2076,Cloud Computing,Dell Technologies,RTOS,Fresher
+2077,Web Development,Principal Global,C#,Not Fresher
+2078,Cybersecurity,Navikenz Inc,SQL,Fresher
+2079,Game Development,Dell Technologies,Kotlin,Fresher
+2080,Embedded Systems,Batt:RE,Flutter,Fresher
+2081,Game Development,Scaler,Network Security,Not Fresher
+2082,Mobile Development,Samsung,TensorFlow,Not Fresher
+2083,Data Analytics,OnePlus,C#,Fresher
+2084,Cloud Computing,Ubisoft,Azure,Fresher
+2085,Cybersecurity,Navikenz Inc,Scikit-learn,Not Fresher
+2086,Web Development,Cisco,Unity,Not Fresher
+2087,DevOps,Synopsys,AWS,Fresher
+2088,Cloud Computing,Harness,AWS,Not Fresher
+2089,DevOps,Mercer Mettl,Tableau,Fresher
+2090,Cybersecurity,Cipla,AWS,Fresher
+2091,Embedded Systems,Mahindra Comviva,Scikit-learn,Fresher
+2092,DevOps,HSC,Power BI,Not Fresher
+2093,Embedded Systems,Principal Global,Unreal Engine,Fresher
+2094,Data Analytics,Talsmart,React Native,Not Fresher
+2095,Cloud Computing,Arvind Fashion,Kubernetes,Fresher
+2096,Mobile Development,Blackrock,Docker,Fresher
+2097,Data Analytics,Scaler,Power BI,Fresher
+2098,Game Development,Synopsys,C,Not Fresher
+2099,Game Development,Domato Book Co.,RTOS,Fresher
+2100,Web Development,Infosys,RTOS,Fresher
+2101,Web Development,Microsoft,C,Not Fresher
+2102,Cybersecurity,Arvind Fashion,SQL,Fresher
+2103,Cybersecurity,Watchguard,PyTorch,Not Fresher
+2104,Data Analytics,Google Cloud,Microcontrollers,Fresher
+2105,Cybersecurity,Micron Semiconductor,React Native,Fresher
+2106,Mobile Development,SAP Scholar,Kotlin,Fresher
+2107,AI/ML,Micron Semiconductor,RTOS,Fresher
+2108,Embedded Systems,HSC,Azure,Not Fresher
+2109,Embedded Systems,Google Cloud,HTML/CSS,Fresher
+2110,Cybersecurity,Synopsys,Flutter,Fresher
+2111,Web Development,KPMG,C,Not Fresher
+2112,Web Development,Mahindra Comviva,Kotlin,Fresher
+2113,Cloud Computing,Ubisoft,HTML/CSS,Fresher
+2114,Game Development,Tech Mahindra,C,Not Fresher
+2115,Data Analytics,SAP Scholar,Network Security,Not Fresher
+2116,DevOps,Batt:RE,CI/CD,Not Fresher
+2117,Game Development,Synopsys,SQL,Not Fresher
+2118,Data Analytics,Juniper Networks,Flutter,Not Fresher
+2119,DevOps,Amazon,Power BI,Not Fresher
+2120,Mobile Development,Zscaler,PyTorch,Not Fresher
+2121,Mobile Development,Deloitte,C#,Fresher
+2122,Mobile Development,EVAge Motors,Firewalls,Not Fresher
+2123,Game Development,JP Morgan,Scikit-learn,Fresher
+2124,Game Development,NVIDIA,HTML/CSS,Fresher
+2125,Embedded Systems,Red Hat,Azure,Fresher
+2126,Data Analytics,Electronic Arts,Docker,Fresher
+2127,Cybersecurity,TVS Motors,Tableau,Not Fresher
+2128,Cloud Computing,Tata Consulting Engineers,Scikit-learn,Fresher
+2129,Data Analytics,JP Morgan,SQL,Fresher
+2130,Web Development,EVAge Motors,Angular,Fresher
+2131,Game Development,Ubisoft,CI/CD,Fresher
+2132,AI/ML,Microsoft,TensorFlow,Fresher
+2133,Mobile Development,Nokia,Flutter,Fresher
+2134,Mobile Development,EY,RTOS,Fresher
+2135,AI/ML,Zscaler,Power BI,Fresher
+2136,AI/ML,Batt:RE,RTOS,Not Fresher
+2137,Game Development,Marsh McLennan,Scikit-learn,Fresher
+2138,Embedded Systems,Genpact,React,Not Fresher
+2139,Cybersecurity,Seagate,C,Fresher
+2140,Web Development,Deloitte,SQL,Not Fresher
+2141,Data Analytics,British Telecom,Microcontrollers,Not Fresher
+2142,Mobile Development,Red Hat,Angular,Not Fresher
+2143,AI/ML,Nokia,Azure,Not Fresher
+2144,AI/ML,Mercer Mettl,Angular,Not Fresher
+2145,Cloud Computing,Micron Semiconductor,CI/CD,Not Fresher
+2146,Cloud Computing,Secure Meters,PyTorch,Fresher
+2147,DevOps,Microsoft,Microcontrollers,Not Fresher
+2148,AI/ML,Secure Meters,Network Security,Fresher
+2149,Embedded Systems,Qualcomm,TensorFlow,Not Fresher
+2150,Embedded Systems,Apple,PyTorch,Fresher
+2151,Cybersecurity,Batt:RE,React,Fresher
+2152,DevOps,TCS,Docker,Not Fresher
+2153,Embedded Systems,NI Systems,React,Not Fresher
+2154,Cybersecurity,Yamaha,Firewalls,Not Fresher
+2155,Game Development,Celebal Technologies,React Native,Not Fresher
+2156,Web Development,NI Systems,Kubernetes,Fresher
+2157,Game Development,HashedIn,Unity,Fresher
+2158,Cybersecurity,Domato Book Co.,Tableau,Fresher
+2159,DevOps,SunLife,HTML/CSS,Not Fresher
+2160,Cybersecurity,Maverick Quantum,Microcontrollers,Not Fresher
+2161,Cybersecurity,Maverick Quantum,SQL,Fresher
+2162,Embedded Systems,Cimpress,Angular,Not Fresher
+2163,Cloud Computing,Rockstar Games,React,Fresher
+2164,Cybersecurity,Cipla,PyTorch,Fresher
+2165,Cloud Computing,Juniper Networks,TensorFlow,Not Fresher
+2166,Cybersecurity,Silicon Labs,C,Fresher
+2167,Embedded Systems,KPMG,Unity,Not Fresher
+2168,Cloud Computing,Google,C,Not Fresher
+2169,Mobile Development,Persistent,Microcontrollers,Fresher
+2170,Cloud Computing,EY,Tableau,Fresher
+2171,Web Development,Cipla,Flutter,Not Fresher
+2172,AI/ML,Schneider,AWS,Not Fresher
+2173,DevOps,Blackrock,Firewalls,Fresher
+2174,Mobile Development,Schneider,Flutter,Fresher
+2175,Data Analytics,Arvind Fashion,Microcontrollers,Fresher
+2176,Mobile Development,Accenture,Flutter,Fresher
+2177,AI/ML,Nokia,PyTorch,Not Fresher
+2178,Web Development,Talsmart,Firewalls,Not Fresher
+2179,Game Development,Dell Technologies,TensorFlow,Not Fresher
+2180,Web Development,Palo Alto Networks,CI/CD,Fresher
+2181,DevOps,Yamaha,Ethical Hacking,Not Fresher
+2182,Data Analytics,NI Systems,HTML/CSS,Fresher
+2183,Game Development,Intel,Network Security,Fresher
+2184,Embedded Systems,Scaler,SQL,Not Fresher
+2185,DevOps,Azure,Unreal Engine,Not Fresher
+2186,Cybersecurity,Deutsche Bank,Power BI,Fresher
+2187,Web Development,Juniper Networks,Ethical Hacking,Not Fresher
+2188,Cybersecurity,Marsh McLennan,Flutter,Not Fresher
+2189,Data Analytics,KPMG,Unity,Fresher
+2190,AI/ML,Seagate,Azure,Fresher
+2191,Data Analytics,Persistent,Flutter,Fresher
+2192,Data Analytics,Arvind Fashion,Angular,Fresher
+2193,Embedded Systems,Watchguard,React,Not Fresher
+2194,Cloud Computing,Arvind Fashion,HTML/CSS,Not Fresher
+2195,Embedded Systems,Rockstar Games,React,Not Fresher
+2196,Data Analytics,Apple,Microcontrollers,Fresher
+2197,Web Development,Statcon Electronics,Power BI,Not Fresher
+2198,Data Analytics,Palo Alto Networks,Unity,Not Fresher
+2199,AI/ML,Talsmart,C,Not Fresher
+2200,AI/ML,JSW,Flutter,Fresher
+2201,AI/ML,Mercer Mettl,Tableau,Not Fresher
+2202,Mobile Development,Synopsys,Firewalls,Not Fresher
+2203,Data Analytics,Silicon Labs,Azure,Not Fresher
+2204,AI/ML,Yamaha,React Native,Not Fresher
+2205,Cybersecurity,Scaler,Firewalls,Fresher
+2206,Web Development,Blackrock,Kotlin,Not Fresher
+2207,DevOps,Batt:RE,SQL,Fresher
+2208,Embedded Systems,Schneider,C#,Not Fresher
+2209,Game Development,Mercer Mettl,CI/CD,Not Fresher
+2210,AI/ML,Google Cloud,C,Not Fresher
+2211,DevOps,AWS,Azure,Not Fresher
+2212,Cloud Computing,Microsoft,Firewalls,Fresher
+2213,Game Development,Atlassian,Tableau,Not Fresher
+2214,Cybersecurity,rtCamp,Unity,Not Fresher
+2215,Embedded Systems,Ubisoft,Kubernetes,Not Fresher
+2216,Mobile Development,EVAge Motors,Azure,Fresher
+2217,Web Development,JSW,Network Security,Fresher
+2218,Cloud Computing,SunLife,Unity,Fresher
+2219,AI/ML,Maverick Quantum,Angular,Not Fresher
+2220,Web Development,Mahindra Comviva,Docker,Not Fresher
+2221,Data Analytics,Dell Technologies,Microcontrollers,Fresher
+2222,DevOps,Synopsys,C#,Not Fresher
+2223,Embedded Systems,Micron Semiconductor,Ethical Hacking,Fresher
+2224,Game Development,Apple,Scikit-learn,Not Fresher
+2225,Embedded Systems,Statcon Electronics,Kubernetes,Fresher
+2226,AI/ML,JSW,PyTorch,Fresher
+2227,DevOps,Seagate,Firewalls,Fresher
+2228,Game Development,OnePlus,Docker,Fresher
+2229,Mobile Development,Red Hat,C#,Fresher
+2230,Embedded Systems,Cisco,AWS,Fresher
+2231,Cybersecurity,Cimpress,CI/CD,Fresher
+2232,Cybersecurity,Oracle,React,Fresher
+2233,AI/ML,JK Cement,Power BI,Not Fresher
+2234,Game Development,ICICI Prudential,Scikit-learn,Fresher
+2235,Web Development,Infosys,Ethical Hacking,Fresher
+2236,Web Development,HSC,GCP,Not Fresher
+2237,Game Development,Ubisoft,Network Security,Not Fresher
+2238,DevOps,Electronic Arts,React Native,Fresher
+2239,Web Development,Amazon,Firewalls,Not Fresher
+2240,Mobile Development,Navikenz Inc,C,Fresher
+2241,Mobile Development,Infosys,Docker,Not Fresher
+2242,DevOps,Juniper Networks,Network Security,Not Fresher
+2243,Game Development,OpenAI,TensorFlow,Fresher
+2244,DevOps,ICICI Prudential,C#,Not Fresher
+2245,Cybersecurity,Apple,Unreal Engine,Fresher
+2246,Web Development,NVIDIA,C,Fresher
+2247,DevOps,Navikenz Inc,Flutter,Fresher
+2248,Web Development,Synopsys,GCP,Fresher
+2249,Data Analytics,Ubisoft,HTML/CSS,Not Fresher
+2250,Embedded Systems,Secure Meters,Angular,Fresher
+2251,Cybersecurity,Schneider,Flutter,Fresher
+2252,Web Development,Electronic Arts,TensorFlow,Not Fresher
+2253,AI/ML,Dell Technologies,React,Not Fresher
+2254,AI/ML,Qualcomm,Ethical Hacking,Not Fresher
+2255,Game Development,GitHub,Tableau,Fresher
+2256,DevOps,Apple,Unreal Engine,Fresher
+2257,Game Development,Palo Alto Networks,Power BI,Not Fresher
+2258,Game Development,Zscaler,Ethical Hacking,Not Fresher
+2259,Embedded Systems,Silicon Labs,Docker,Not Fresher
+2260,Data Analytics,HashedIn,Unity,Not Fresher
+2261,Embedded Systems,Infosys,Microcontrollers,Not Fresher
+2262,DevOps,EVAge Motors,PyTorch,Not Fresher
+2263,Embedded Systems,Synopsys,React Native,Fresher
+2264,Embedded Systems,Cipla,CI/CD,Fresher
+2265,Data Analytics,Philips,GCP,Fresher
+2266,Mobile Development,NVIDIA,CI/CD,Fresher
+2267,Data Analytics,Bosch Ltd.,Network Security,Not Fresher
+2268,Cybersecurity,TVS Motors,SQL,Not Fresher
+2269,Web Development,Mercer Mettl,CI/CD,Fresher
+2270,Game Development,Silicon Labs,Kubernetes,Not Fresher
+2271,Web Development,OnePlus,Scikit-learn,Fresher
+2272,DevOps,Juniper Networks,GCP,Fresher
+2273,Data Analytics,JSW,Network Security,Fresher
+2274,Cybersecurity,Micron Semiconductor,C#,Not Fresher
+2275,Cloud Computing,Hyundai,React,Fresher
+2276,DevOps,OpenAI,Microcontrollers,Not Fresher
+2277,DevOps,NVIDIA,PyTorch,Not Fresher
+2278,Game Development,Maverick Quantum,Docker,Not Fresher
+2279,Mobile Development,Tata Consulting Engineers,SQL,Not Fresher
+2280,Embedded Systems,Microsoft,Azure,Fresher
+2281,Data Analytics,Sabre,Azure,Not Fresher
+2282,Cybersecurity,Sabre,SQL,Not Fresher
+2283,Data Analytics,Harness,Microcontrollers,Not Fresher
+2284,Web Development,Watchguard,C#,Fresher
+2285,DevOps,PwC,CI/CD,Fresher
+2286,DevOps,Mercer Mettl,C,Fresher
+2287,AI/ML,Mercer Mettl,Azure,Not Fresher
+2288,Mobile Development,Accenture,PyTorch,Fresher
+2289,Cloud Computing,GitHub,Power BI,Not Fresher
+2290,Embedded Systems,DeepMind,C,Fresher
+2291,Embedded Systems,Hexaware,Angular,Fresher
+2292,Cloud Computing,Infosys,Angular,Fresher
+2293,Cloud Computing,HSC,Network Security,Fresher
+2294,AI/ML,TCS,CI/CD,Fresher
+2295,DevOps,Secure Meters,CI/CD,Fresher
+2296,Embedded Systems,Philips,RTOS,Fresher
+2297,Game Development,Silicon Labs,React Native,Fresher
+2298,Data Analytics,TCS,GCP,Not Fresher
+2299,Cybersecurity,British Telecom,Angular,Fresher
+2300,Cybersecurity,Statcon Electronics,SQL,Not Fresher
+2301,DevOps,Accolite,C#,Fresher
+2302,AI/ML,Qualcomm,AWS,Not Fresher
+2303,Data Analytics,Harness,Unreal Engine,Not Fresher
+2304,Cybersecurity,Mahindra Comviva,Ethical Hacking,Not Fresher
+2305,Web Development,Persistent,React Native,Not Fresher
+2306,Cloud Computing,DeepMind,PyTorch,Not Fresher
+2307,Embedded Systems,Philips,Docker,Fresher
+2308,Web Development,Silicon Labs,Firewalls,Not Fresher
+2309,DevOps,Marsh McLennan,PyTorch,Fresher
+2310,Data Analytics,Schneider,SQL,Not Fresher
+2311,Web Development,Mahindra Comviva,TensorFlow,Not Fresher
+2312,Cybersecurity,Statcon Electronics,Unity,Not Fresher
+2313,Cloud Computing,Batt:RE,PyTorch,Fresher
+2314,Cybersecurity,Accolite,Ethical Hacking,Fresher
+2315,Cloud Computing,TVS Motors,Unreal Engine,Fresher
+2316,Cloud Computing,Mercer Mettl,Scikit-learn,Fresher
+2317,AI/ML,Sabre,C#,Not Fresher
+2318,Web Development,Cimpress,C,Fresher
+2319,Cybersecurity,Synopsys,Tableau,Fresher
+2320,DevOps,Sanguine Global,RTOS,Not Fresher
+2321,DevOps,Marsh McLennan,Ethical Hacking,Fresher
+2322,Mobile Development,EY,TensorFlow,Fresher
+2323,Web Development,Schneider,Angular,Not Fresher
+2324,Data Analytics,Schneider,Azure,Fresher
+2325,DevOps,Red Hat,Docker,Fresher
+2326,Data Analytics,Zscaler,C#,Not Fresher
+2327,Game Development,EY,CI/CD,Not Fresher
+2328,Cloud Computing,Atlassian,HTML/CSS,Fresher
+2329,AI/ML,Celebal Technologies,TensorFlow,Not Fresher
+2330,Mobile Development,Schneider,SQL,Fresher
+2331,Cybersecurity,Marsh McLennan,Azure,Fresher
+2332,Game Development,Rockstar Games,Kotlin,Not Fresher
+2333,Web Development,NVIDIA,C#,Not Fresher
+2334,Data Analytics,Scaler,GCP,Not Fresher
+2335,Game Development,Cimpress,Docker,Not Fresher
+2336,Data Analytics,Oracle,Unity,Not Fresher
+2337,Game Development,EY,Azure,Fresher
+2338,Mobile Development,Secure Meters,Angular,Not Fresher
+2339,Cloud Computing,Batt:RE,Flutter,Fresher
+2340,Data Analytics,EY,RTOS,Not Fresher
+2341,Web Development,Atlassian,Firewalls,Not Fresher
+2342,DevOps,KPMG,Microcontrollers,Fresher
+2343,Cloud Computing,Tata Consulting Engineers,Microcontrollers,Not Fresher
+2344,AI/ML,Sabre,Azure,Not Fresher
+2345,Game Development,Rockstar Games,Firewalls,Fresher
+2346,Web Development,AWS,TensorFlow,Fresher
+2347,Mobile Development,Talsmart,RTOS,Not Fresher
+2348,Cybersecurity,GitHub,Kubernetes,Not Fresher
+2349,DevOps,Scaler,Unreal Engine,Not Fresher
+2350,DevOps,GitHub,Microcontrollers,Fresher
+2351,AI/ML,Texas Instruments,RTOS,Fresher
+2352,Mobile Development,Azure,Docker,Not Fresher
+2353,DevOps,Cimpress,C#,Fresher
+2354,Game Development,Rockstar Games,Unity,Fresher
+2355,Data Analytics,Persistent,React,Fresher
+2356,Game Development,Google Cloud,Azure,Not Fresher
+2357,Cybersecurity,Batt:RE,TensorFlow,Not Fresher
+2358,Game Development,Celebal Technologies,Ethical Hacking,Not Fresher
+2359,Web Development,Intel,Scikit-learn,Not Fresher
+2360,Web Development,NI Systems,Docker,Not Fresher
+2361,AI/ML,Domato Book Co.,AWS,Fresher
+2362,Cybersecurity,Mahindra & Mahindra,Angular,Fresher
+2363,Mobile Development,Qualcomm,Microcontrollers,Fresher
+2364,AI/ML,Zscaler,Unity,Not Fresher
+2365,DevOps,NVIDIA,React,Not Fresher
+2366,AI/ML,Secure Meters,Microcontrollers,Not Fresher
+2367,Game Development,SAP Lab,Kotlin,Fresher
+2368,Mobile Development,Amazon,React,Not Fresher
+2369,Mobile Development,JP Morgan,SQL,Fresher
+2370,Embedded Systems,Cimpress,Unity,Fresher
+2371,DevOps,EY,Network Security,Fresher
+2372,DevOps,Qualcomm,GCP,Not Fresher
+2373,Cybersecurity,Sabre,React Native,Not Fresher
+2374,Data Analytics,Accolite,React Native,Not Fresher
+2375,Game Development,Maverick Quantum,Firewalls,Fresher
+2376,Cybersecurity,EVAge Motors,Docker,Fresher
+2377,DevOps,NVIDIA,C,Fresher
+2378,AI/ML,Genpact,Kubernetes,Not Fresher
+2379,Cloud Computing,Juniper Networks,Unity,Fresher
+2380,Cybersecurity,AWS,SQL,Not Fresher
+2381,Game Development,GitHub,GCP,Not Fresher
+2382,DevOps,Palo Alto Networks,Power BI,Fresher
+2383,DevOps,SAP Lab,Unity,Fresher
+2384,Game Development,HashedIn,Azure,Not Fresher
+2385,Embedded Systems,Tech Mahindra,Tableau,Fresher
+2386,Cybersecurity,Mahindra & Mahindra,SQL,Fresher
+2387,Embedded Systems,Bosch Ltd.,Microcontrollers,Fresher
+2388,Cybersecurity,Harness,Angular,Not Fresher
+2389,Web Development,Electronic Arts,Scikit-learn,Not Fresher
+2390,DevOps,Arvind Fashion,Kotlin,Not Fresher
+2391,Cybersecurity,Mahindra Comviva,Network Security,Fresher
+2392,Web Development,Silicon Labs,React,Fresher
+2393,Embedded Systems,Blackrock,Unity,Not Fresher
+2394,Cloud Computing,Hexaware,Microcontrollers,Fresher
+2395,Embedded Systems,SunLife,AWS,Not Fresher
+2396,Web Development,Accolite,TensorFlow,Not Fresher
+2397,AI/ML,JK Cement,GCP,Not Fresher
+2398,Web Development,Samsung,Unreal Engine,Fresher
+2399,Data Analytics,Silicon Labs,Docker,Not Fresher
+2400,Mobile Development,Hexaware,Power BI,Fresher
+2401,Web Development,Samsung,AWS,Fresher
+2402,Web Development,Sabre,Kotlin,Not Fresher
+2403,Mobile Development,Zscaler,AWS,Fresher
+2404,Data Analytics,Palo Alto Networks,CI/CD,Fresher
+2405,Cybersecurity,Sanguine Global,HTML/CSS,Fresher
+2406,Embedded Systems,Tata Consulting Engineers,SQL,Fresher
+2407,Mobile Development,Hexaware,Network Security,Not Fresher
+2408,Cloud Computing,Accolite,C,Fresher
+2409,DevOps,Zscaler,Flutter,Fresher
+2410,Mobile Development,Sanguine Global,HTML/CSS,Not Fresher
+2411,AI/ML,Synopsys,Scikit-learn,Not Fresher
+2412,Mobile Development,Deloitte,Angular,Fresher
+2413,Embedded Systems,ICICI Prudential,C#,Not Fresher
+2414,Web Development,PwC,Docker,Not Fresher
+2415,Data Analytics,Oracle,Power BI,Not Fresher
+2416,Embedded Systems,Zscaler,AWS,Not Fresher
+2417,AI/ML,Accolite,Kotlin,Not Fresher
+2418,Cybersecurity,Apple,Flutter,Not Fresher
+2419,DevOps,Ubisoft,Firewalls,Not Fresher
+2420,Embedded Systems,Bosch Ltd.,Microcontrollers,Fresher
+2421,Mobile Development,TCS,Ethical Hacking,Fresher
+2422,Web Development,JP Morgan,Docker,Not Fresher
+2423,Game Development,Accolite,HTML/CSS,Fresher
+2424,Cybersecurity,Accolite,RTOS,Not Fresher
+2425,DevOps,Qualcomm,Azure,Fresher
+2426,Data Analytics,Mahindra Comviva,HTML/CSS,Fresher
+2427,DevOps,Harness,RTOS,Fresher
+2428,AI/ML,HSC,Unity,Fresher
+2429,DevOps,Cisco,Unity,Not Fresher
+2430,Cloud Computing,TCS,React Native,Not Fresher
+2431,AI/ML,EVAge Motors,Kubernetes,Fresher
+2432,Game Development,NVIDIA,PyTorch,Fresher
+2433,Mobile Development,Cisco,Unreal Engine,Not Fresher
+2434,Mobile Development,Schneider,Firewalls,Not Fresher
+2435,Mobile Development,HashedIn,Ethical Hacking,Fresher
+2436,AI/ML,Intel,Kubernetes,Not Fresher
+2437,Web Development,SAP Lab,Azure,Not Fresher
+2438,DevOps,Blackrock,Ethical Hacking,Not Fresher
+2439,Data Analytics,Deutsche Bank,Power BI,Not Fresher
+2440,Cybersecurity,Synopsys,AWS,Not Fresher
+2441,Web Development,KPMG,React,Fresher
+2442,AI/ML,Scaler,Flutter,Fresher
+2443,Cloud Computing,OnePlus,CI/CD,Fresher
+2444,DevOps,Mahindra & Mahindra,Ethical Hacking,Not Fresher
+2445,Mobile Development,SunLife,Azure,Not Fresher
+2446,Mobile Development,PwC,C#,Not Fresher
+2447,AI/ML,Sanguine Global,CI/CD,Fresher
+2448,Web Development,Philips,Network Security,Fresher
+2449,Web Development,Genpact,Flutter,Not Fresher
+2450,Mobile Development,GitHub,Tableau,Fresher
+2451,Cybersecurity,TVS Motors,SQL,Not Fresher
+2452,DevOps,Genpact,SQL,Fresher
+2453,Embedded Systems,Azure,C#,Fresher
+2454,Embedded Systems,Scaler,RTOS,Not Fresher
+2455,Cloud Computing,TVS Motors,C#,Not Fresher
+2456,DevOps,Texas Instruments,Power BI,Not Fresher
+2457,Mobile Development,PwC,RTOS,Fresher
+2458,Web Development,NI Systems,Power BI,Not Fresher
+2459,AI/ML,Atlassian,SQL,Not Fresher
+2460,Mobile Development,Red Hat,Unreal Engine,Fresher
+2461,Web Development,Watchguard,Microcontrollers,Not Fresher
+2462,Cybersecurity,Cisco,Scikit-learn,Fresher
+2463,Cloud Computing,GitHub,Scikit-learn,Fresher
+2464,AI/ML,Marsh McLennan,Kubernetes,Not Fresher
+2465,Cloud Computing,Batt:RE,C#,Not Fresher
+2466,Cybersecurity,Qualcomm,CI/CD,Not Fresher
+2467,Cybersecurity,Accenture,Tableau,Fresher
+2468,Game Development,Sabre,Firewalls,Not Fresher
+2469,Game Development,Nokia,Power BI,Not Fresher
+2470,DevOps,Deutsche Bank,Network Security,Fresher
+2471,Cloud Computing,Red Hat,HTML/CSS,Not Fresher
+2472,Web Development,JSW,GCP,Fresher
+2473,Mobile Development,Tech Mahindra,AWS,Fresher
+2474,Data Analytics,DeepMind,Angular,Fresher
+2475,DevOps,Rockstar Games,Angular,Not Fresher
+2476,Game Development,Bosch Ltd.,RTOS,Fresher
+2477,AI/ML,Persistent,HTML/CSS,Fresher
+2478,Cybersecurity,Texas Instruments,TensorFlow,Fresher
+2479,Cloud Computing,Sanguine Global,GCP,Fresher
+2480,AI/ML,Silicon Labs,HTML/CSS,Fresher
+2481,Embedded Systems,Azure,GCP,Not Fresher
+2482,Web Development,Juniper Networks,Ethical Hacking,Not Fresher
+2483,Embedded Systems,JK Cement,Unreal Engine,Not Fresher
+2484,Embedded Systems,Harness,SQL,Fresher
+2485,Mobile Development,OnePlus,Firewalls,Fresher
+2486,Web Development,Philips,Angular,Fresher
+2487,Cybersecurity,Qualcomm,React Native,Fresher
+2488,Data Analytics,Qualcomm,Azure,Not Fresher
+2489,Mobile Development,TCS,HTML/CSS,Fresher
+2490,Game Development,Deutsche Bank,Microcontrollers,Fresher
+2491,Web Development,Deloitte,Tableau,Fresher
+2492,DevOps,Amazon,AWS,Fresher
+2493,Embedded Systems,Nokia,Unity,Fresher
+2494,Data Analytics,Yamaha,Docker,Not Fresher
+2495,Web Development,Maverick Quantum,Flutter,Fresher
+2496,AI/ML,JK Cement,AWS,Fresher
+2497,Game Development,Amazon,Angular,Fresher
+2498,Cloud Computing,Principal Global,Kubernetes,Fresher
+2499,Cloud Computing,Ubisoft,Microcontrollers,Not Fresher
+2500,Mobile Development,Micron Semiconductor,C#,Not Fresher
+2501,Mobile Development,Zscaler,Power BI,Fresher
+2502,DevOps,Nokia,Azure,Fresher
+2503,AI/ML,Domato Book Co.,Flutter,Not Fresher
+2504,AI/ML,Arvind Fashion,AWS,Fresher
+2505,Data Analytics,OpenAI,SQL,Not Fresher
+2506,DevOps,Scaler,Kotlin,Fresher
+2507,Data Analytics,Blackrock,Kotlin,Not Fresher
+2508,Data Analytics,HSC,Unreal Engine,Not Fresher
+2509,Web Development,Palo Alto Networks,Tableau,Not Fresher
+2510,Data Analytics,Juniper Networks,Angular,Not Fresher
+2511,Data Analytics,Philips,Unreal Engine,Fresher
+2512,Data Analytics,EVAge Motors,C,Not Fresher
+2513,Cloud Computing,Red Hat,Unity,Not Fresher
+2514,Cybersecurity,Harness,Firewalls,Not Fresher
+2515,Cloud Computing,Nokia,SQL,Not Fresher
+2516,Web Development,SAP Lab,HTML/CSS,Not Fresher
+2517,Data Analytics,Sabre,Scikit-learn,Not Fresher
+2518,AI/ML,Accolite,Tableau,Fresher
+2519,Mobile Development,Tech Mahindra,C#,Not Fresher
+2520,Cloud Computing,Rockstar Games,Angular,Fresher
+2521,Cybersecurity,Deutsche Bank,Tableau,Not Fresher
+2522,Cybersecurity,Samsung,Ethical Hacking,Not Fresher
+2523,Game Development,Rockstar Games,React Native,Fresher
+2524,Cloud Computing,Amazon,React,Not Fresher
+2525,Mobile Development,Statcon Electronics,PyTorch,Fresher
+2526,Web Development,EVAge Motors,Firewalls,Not Fresher
+2527,Embedded Systems,Deutsche Bank,HTML/CSS,Fresher
+2528,Data Analytics,Scaler,Docker,Not Fresher
+2529,Embedded Systems,JSW,Microcontrollers,Not Fresher
+2530,DevOps,JP Morgan,C#,Not Fresher
+2531,Data Analytics,NI Systems,AWS,Fresher
+2532,Cybersecurity,Batt:RE,Microcontrollers,Not Fresher
+2533,Web Development,Hyundai,TensorFlow,Fresher
+2534,Cloud Computing,Schneider,Kotlin,Fresher
+2535,Game Development,Seagate,CI/CD,Not Fresher
+2536,Cybersecurity,Texas Instruments,HTML/CSS,Fresher
+2537,DevOps,Hyundai,Tableau,Not Fresher
+2538,Cybersecurity,Principal Global,React,Not Fresher
+2539,Data Analytics,OpenAI,Ethical Hacking,Not Fresher
+2540,Game Development,Amazon,PyTorch,Not Fresher
+2541,Cybersecurity,Batt:RE,Flutter,Fresher
+2542,DevOps,rtCamp,Kotlin,Not Fresher
+2543,Game Development,Juniper Networks,GCP,Fresher
+2544,Mobile Development,Bosch Ltd.,Azure,Fresher
+2545,Game Development,Sabre,Kotlin,Not Fresher
+2546,Game Development,Micron Semiconductor,Kubernetes,Not Fresher
+2547,AI/ML,DeepMind,Scikit-learn,Fresher
+2548,Cloud Computing,Synopsys,Kubernetes,Fresher
+2549,AI/ML,Principal Global,C,Fresher
+2550,Game Development,Rockstar Games,Scikit-learn,Fresher
+2551,Data Analytics,TVS Motors,Scikit-learn,Not Fresher
+2552,Embedded Systems,Qualcomm,Scikit-learn,Not Fresher
+2553,Cloud Computing,Intel,Power BI,Not Fresher
+2554,Data Analytics,Secure Meters,Angular,Fresher
+2555,Game Development,Tech Mahindra,HTML/CSS,Fresher
+2556,Game Development,Sanguine Global,Power BI,Not Fresher
+2557,Data Analytics,Accolite,RTOS,Fresher
+2558,Mobile Development,Amazon,Flutter,Fresher
+2559,Game Development,Qualcomm,Firewalls,Fresher
+2560,Data Analytics,OpenAI,Tableau,Not Fresher
+2561,Web Development,Genpact,Docker,Not Fresher
